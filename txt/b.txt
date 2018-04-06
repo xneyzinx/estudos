@@ -1,0 +1,2327 @@
+get_dummies: qnd tenho um campo de string que é tipo A|B|C...
+full_monte['info'].str.get_dummies('|')
+
+ele separa
+
+
+____________________________________________________________________
+10.31.220.23:3128
+
+unstack
+
+
+
+C:\Users\ney.dantas\AppData\Local\Continuum\anaconda3\Scripts
+
+
+
+
+www760 - espaço
+
+
+
+
+
+
+
+
+
+
+
+
+http://4.bp.blogspot.com/-h24Qien79Qw/UXczetlOm9I/AAAAAAAAAfw/_JUYnWSBfzM/s1600/COMPET%C3%8ANCIAS+CONSTITUCIONAIS+-+PODER+LEGISLATIVO.jpg
+
+
+Art. 28.  O subsídio dos integrantes das Carreiras de que tratam os incisos I e II do caput do art. 2o desta Lei não exclui o direito
+ à percepção, nos termos da legislação e regulamentação específica, das seguintes espécies remuneratórias:
+
+I - gratificação natalina;
+
+II - adicional de férias;
+
+III - abono de permanência de que tratam o § 19 do art. 40 da Constituição Federal, o § 5o do art. 2o e o § 1º do art. 3º da Emenda 
+Constitucional nº 41, de 19 de dezembro de 2003;
+
+IV - retribuição pelo exercício de função de direção, chefia e assessoramento; e
+
+V - parcelas indenizatórias previstas em lei.
+
+
+RECEBE:
+I - Vencimento Básico; e
+
+II - Gratificação de Desempenho de Atividades de Informações e Inteligência - GDAIN ou Gratificação de Desempenho de Atividades 
+Complementares na ABIN - GDACABIN, conforme o caso, observado o disposto nos arts. 34 a 41 desta Lei.
+
+
+
+
+
+Art. 20.  São pré-requisitos mínimos para promoção às classes dos cargos de nível intermediário de que tratam os incisos II e III do 
+caput do art. 2o desta Lei:
+
+I - para a Segunda Classe, possuir certificação em eventos de capacitação, totalizando, no mínimo, 120 (cento e vinte) horas, ou 
+diploma de conclusão de curso superior e qualificação profissional com experiência mínima de 7 (sete) anos e 1/2 (meio), ambas 
+no campo específico de atuação de cada cargo;
+
+II - para a Primeira Classe, possuir certificação em eventos de capacitação, totalizando, no mínimo, 200 (duzentas) horas, ou 
+diploma de conclusão de curso superior e qualificação profissional com experiência mínima de 16 (dezesseis) anos e 1/2 (meio), 
+ambas no campo específico de atuação de cada cargo; e
+
+III - para a Classe Especial, possuir certificação em eventos de capacitação, totalizando, no mínimo, 280 (duzentas e oitenta) 
+horas, ou diploma de conclusão de curso superior e qualificação profissional com experiência mínima de 25 (vinte e cinco) anos 
+e 1/2 (meio), ambas no campo específico de atuação de cada cargo.
+
+
+
+
+Art. 18.  São pré-requisitos mínimos para promoção às classes dos cargos de nível superior de que tratam os incisos I e III do caput do art. 2o desta Lei:
+
+I - para a Segunda Classe, possuir certificação em eventos de capacitação, totalizando, no mínimo, 160 (cento e sessenta) horas, 
+e qualificação profissional com experiência mínima de 7 (sete) anos e meio, ambas no campo específico de atuação de cada cargo;
+
+II - para a Primeira Classe, possuir certificação em eventos de capacitação, totalizando, no mínimo, 240 (duzentas e quarenta) horas,
+ e qualificação profissional com experiência mínima de 16 (dezesseis) anos e 1/2 (meio), ambas no campo específico de atuação de cada
+ cargo; e
+
+III - para a Classe Especial, ser detentor de certificado de conclusão de curso de especialização ou de formação específica
+ equivalente a, no mínimo, 360 (trezentas e sessenta) horas e qualificação profissional com experiência mínima de 25 (vinte e cinco)
+ anos e 1/2 (meio), ambos no campo específico de atuação de cada cargo.
+
+
+
+
+
+
+
+
+Art. 22 Compete privativamente à União legislar sobre: (velho bizu, mnemônico)
+
+CAPACETEPM
+
+Civil, 
+Agrário
+Penal
+Aeronáutico
+Comercial
+ELEITORAL
+Trabalho
+Espacial
+Processual
+Marítimo.
+
+
+DNS spoofing com ettercap (redirecionar youtube pro xvideos por exemplo)
+ARP spoofing: "toma" o lugar do roteador. Os pacotes passam por mim e nao pelo gateway padrao (roteador)
+
+
+
+https://www.youtube.com/watch?v=iuhoA4RLvDo - canal bom
+
+
+
+
+PRAZOS LAI
+
+Justificar o extravio da informação: 10 dias
+Não sendo possível conceder acesso imediato: 20 dias +10
+Ideferimento: 10 dias a partir da ciência
+Será dirigido à entidade imediatamente superior: 5 dias pra se manifestar
+Ainda negado, recorre à CGU: que terá 5 dias
+§ 1o  O recurso previsto neste artigo somente poderá ser dirigido à Controladoria-Geral da União depois de submetido à apreciação de 
+pelo menos uma autoridade hierarquicamente superior àquela que exarou a decisão impugnada, que deliberará no prazo de 5 (cinco) dias. 
+Negado pela CGU, vai recurso pro CMRI
+Art. 17.  No caso de indeferimento de pedido de desclassificação de informação protocolado em órgão da administração pública federal, 
+poderá o requerente recorrer ao Ministro de Estado da área, sem prejuízo das competências da Comissão Mista de Reavaliação de
+ Informações, previstas no art. 35, e do disposto no art. 16. 
+
+§ 1o  O recurso previsto neste artigo somente poderá ser dirigido às autoridades mencionadas depois de submetido à apreciação 
+de pelo menos uma autoridade hierarquicamente superior à autoridade que exarou a decisão impugnada e, no caso das Forças Armadas, 
+ao respectivo Comando. 
+
+§ 2o  Indeferido o recurso previsto no caput que tenha como objeto a desclassificação de informação secreta ou ultrassecreta, 
+caberá recurso à Comissão Mista de Reavaliação de Informações prevista no art. 35. 
+
+
+
+Quando a questão falar em PRINCÍPIOS FUNDAMENTAIS: 
+
+---> artigo 1º (fundamentos) so ci di va plu
+---> artigo 2º (separação dos poderes)
+---> artigo 3º (objetivos) co ga erra pro
+---> artigo 4º (relações internacionais)
+
+De outro modo, quando a questão falar em FUNDAMENTOS:
+será apenas o artigo 1º (fundamentos)
+
+
+
+
+Os orgãos que constituirão o Sisbin na forma de ato do presidente da república
+
+Mediante ajustes específicos e convênios, ouvido o órgão de controle externo, as UFs poderão compor o Sisbin
+
+Irrestrita observância dos direitos e garantias individuais
+
+ Os órgãos componentes do Sistema Brasileiro de Inteligência
+fornecerão à ABIN, nos termos e condições a serem aprovados mediante ato presidencial, para fins de integração
+
+Presidente fixa a PNI
+Abin executa
+CRE (camara de relações exteriores) e DNCG (defesa nacional do conselho de governo) supervisiona a execução
+
+Antes de ser fixada pelo Presidente da República, Política Nacional
+de Inteligência será remetida ao exame e sugestões do competente órgão de controle externo da
+atividade de inteligência. 
+
+
+O regime interno da ABIN disporá sobre a competência e o funcionamento de
+suas unidades, assim como as atribuições dos titulares e demais integrantes destas.
+§ 2º A elaboração e edição do regime interno da ABIN serão de responsabilidade de
+seu Diretor-Geral, que o submeterá à aprovação do Presidente da República. 
+
+
+Consisbin é formado pelos titulares da
+GSI, ABIN, as coisas de segurança(polícia), as de defesa(estratégico-militar), ilícitos transnacionais, controle de ativ 
+financeiras (receita federal, ministérios da fazenda)
+
+
+Parágrafo único. Excetua-se das atribuições previstas neste artigo a atividade de inteligência operacional necessária ao 
+planejamento e à condução de campanhas e operações militares das Forças Armadas, no interesse da defesa nacional. 
+
+
+
+
+
+
+
+How code-signing works:
+
+1. A one-way hash of the file is calculated.
+2. The hash is encrypted with the private key which signs the file.
+3. The file is provided on a website, DVD, email, or other file transfer method.
+4. The file receiver also calculates a one-way hash of the file.
+5. The recipient then decrypts the signed hash with the sender's public key. Code
+signing public keys are generally found in the Trusted Root Store on Windows
+Systems 
+
+
+
+
+
+There are several tools to realize a MITM attack. These tools are particularly efficient in LAN network environments, because they
+ implement extra functionalities, like the arp spoof capabilities that permit the interception of communication between hosts.
+
+PacketCreator
+Ettercap
+Dsniff
+Cain e Abel
+
+
+
+The nmap scanner, via the “–sV” scan option, is able to identify SSL services. Vulnerability Scanners, in addition to performing 
+service discovery, may include checks against weak ciphers (for example, the Nessus scanner has the capability of checking SSL 
+services on arbitrary ports, and will report weak ciphers).
+
+
+
+SSL/TLS CA problem
+What if the name on the certificate and the name of the server do not match? If this happens, it might sound suspicious. For a 
+number of reasons, this is not so rare to see. A system may host a number of name-based virtual hosts, which share the same IP 
+address and are identified by means of the HTTP 1.1 Host: header information. In this case, since the SSL handshake checks the 
+server certificate before the HTTP request is processed, it is not possible to assign different certificates to each virtual server.
+ Therefore, if the name of the site and the name reported in the certificate do not match, we have a condition which is typically 
+signaled by the browser. To avoid this, IP-based virtual servers must be used.
+
+
+
+
+At the time of writing these criteria are widely recognized as minimum checklist:
+
+Weak ciphers must not be used (e.g. less than 128 bits [10]; no NULL ciphers suite, due to no encryption used; no Anonymous 
+Diffie-Hellmann, due to not provides authentication).
+Weak protocols must be disabled (e.g. SSLv2 must be disabled, due to known weaknesses in protocol design [11]).
+Renegotiation must be properly configured (e.g. Insecure Renegotiation must be disabled, due to MiTM attacks [12] and 
+Client-initiated Renegotiation must be disabled, due to Denial of Service vulnerability [13]).
+No Export (EXP) level cipher suites, due to can be easly broken [10].
+X.509 certificates key length must be strong (e.g. if RSA or DSA is used the key must be at least 1024 bits).
+X.509 certificates must be signed only with secure hashing algoritms (e.g. not signed using MD5 hash, due to known collision
+attacks on this hash).
+Keys must be generated with proper entropy (e.g, Weak Key Generated with Debian) [14].
+A more complete checklist includes:
+
+Secure Renegotiation should be enabled.
+MD5 should not be used, due to known collision attacks. [35]
+RC4 should not be used, due to crypto-analytical attacks [15].
+Server should be protected from BEAST Attack [16].
+Server should be protected from CRIME attack, TLS compression must be disabled [17].
+Server should support Forward Secrecy [
+
+
+
+
+Surf Jacking - permits to an attacker to hijack an HTTP session even when the victim’s connection is encrypted using SSL or TLS.
+The following is a scenario of how the attack can take place:
+
+- Victim logs into the secure website at https://somesecuresite/.
+- The secure site issues a session cookie as the client logs in.
+- While logged in, the victim opens a new browser window and goes to http:// examplesite/
+- An attacker sitting on the same network is able to see the clear text traffic to http://examplesite.
+- The attacker sends back a "301 Moved Permanently" in response to the clear text traffic to http://examplesite. The response contains
+the header “Location: http://somesecuresite /”, which makes it appear that examplesite is sending the web browser to somesecuresite. 
+- Notice that the URL scheme is HTTP not HTTPS.
+- The victim's browser starts a new clear text connection to http://somesecuresite/ and sends an HTTP request containing the cookie
+in the HTTP header in clear text
+- The attacker sees this traffic and logs the cookie for later use.
+
+To test if a website is vulnerable carry out the following tests:
+
+Check if website supports both HTTP and HTTPS protocols
+Check if cookies do not have the “Secure” flag
+
+(Rouba o cookie, que passa por uma conexao HTTP forçada pelo atacante)
+
+
+
+SSL Strip - An application is vulnerable if it supports both HTTP and HTTPS.
+
+
+Testing via HTTP proxy
+Inside corporate environments testers can see services that are not directly accessible and they can access them only via HTTP 
+proxy using the CONNECT method [36]. Most of the tools will not work in this scenario because they try to connect to the desired
+ tcp port to start the SSL/TLS handshake. With the help of relaying software such as socat [37] testers can enable those tools for
+ use with services behind an HTTP proxy.
+
+
+
+javap -c ConnMngr.class
+	
+	22: ldc   #36; //String jdbc:mysql://ixne.com/rxsql
+	24: ldc   #38; //String scott
+	26: ldc   #17; //String tiger
+
+
+
+ From a security perspective, you should record all important operations so that any anomalous activity can later be identified. 
+However, when private data is involved, this practice can in fact create risk.
+
+
+
+
+
+PHP OBJECT INJECTION
+Prevention:
+Do not use unserialize() function with user-supplied input, use JSON functions instead.
+
+
+
+Insecure Indexing
+Indexable directories allow an attacker to easily discover the existence of content on your web server that should remain private. 
+For more information, see the OWASP page about Forced_browsing
+
+How to determine if you are vulnerable
+Use Google to search for indexed directories. Example: http://www.google.com/search?hl=en&q="index+of+/"+site:owasp.org
+If a file is found, your application is at risk.
+
+
+
+
+
+
+
+
+REFLECTED XSS: https://www.owasp.org/index.php/Testing_for_Reflected_Cross_site_scripting_(OTG-INPVAL-001)#Example_1
+
+Black Box testing
+A black-box test will include at least three phases:
+
+1. Detect input vectors. For each web page, the tester must determine all the web application's user-defined variables and how to 
+input them. This includes hidden or non-obvious inputs such as HTTP parameters, POST data, hidden
+form field values, and predefined radio or selection values. Typically in-browser HTML editors or web proxies are used to view these 
+hidden variables. See the example below.
+
+2. Analyze each input vector to detect potential vulnerabilities. To detect an XSS vulnerability, the tester will typically use 
+specially crafted input data with each input vector. Such input data is typically harmless, but trigger 
+responses from the web browser that manifests the vulnerability. Testing data can be generated by using a web application fuzzer, 
+an automated predefined list of known attack strings, or manually. 
+Some example of such input data are the following:
+
+2.2	Bypass XSS filters
+2.2.1	Example 3: Tag Attribute Value
+2.2.2	Example 4: Different syntax or encoding
+2.2.3	Example 5: Bypassing non-recursive filtering
+2.2.4	Example 6: Including external script
+2.2.5	Example 7: HTTP Parameter Pollution (HPP)
+
+
+HTTP parameter pollution (HPP): This evasion technique consists of splitting an attack vector between multiple parameters that have the same name. The manipulation of the value of each parameter depends on how each web technology
+ is parsing these parameters, so this type of evasion is not always possible. If the tested environment concatenates the values of all parameters with the same name, then an attacker could use this technique in order to bypass 
+pattern- based security mechanisms. 
+
+
+
+Permitir outros métodos HTTP além de GET e POST é perigoso;
+If possible, limit alternate HTTP method usage to a single page that contains no user actions, such the default landing page (example: index.html).
+
+Although each HTTP method can potentially return different results, there is only a single valid result for all methods other than GET and POST. The web server should either ignore the request completely or return an error. 
+Any other response indicates a test failure as the server is responding to methods/verbs that are unnecessary. These methods should be disabled.
+
+
+
+Reflected and Stored XSS are server side injection issues while DOM based XSS is a client (browser) side injection issue.
+
+
+STORED XSS:
+
+Stored XSS is particularly dangerous in application areas where users with high privileges have access. When the administrator visits the vulnerable page, the attack is automatically executed by their browser. This might expose 
+sensitive information such as session authorization tokens.
+
+Note: All areas of the application accessible by administrators should be tested to identify the presence of any data submitted by users.
+
+Ensure the input is submitted through the application. This normally involves disabling JavaScript if client-side security controls are implemented or modifying the HTTP request with a web proxy such as WebScarab. It is also important to test the same injection with both HTTP GET and POST requests. The above injection results in a popup window containing the cookie values.
+
+
+Stored XSS can be exploited by advanced JavaScript exploitation frameworks such as BeEF, XSS Proxy and Backframe.
+
+
+
+
+Buffer Overflow:
+When web applications use libraries, such as a graphics library to generate images, they open themselves to potential buffer overflow attacks.
+
+Buffer overflow vulnerabilities typically occur in code that:
+Relies on external data to control its behavior
+Depends upon properties of the data that are enforced outside of the immediate scope of the code
+Is so complex that a programmer cannot accurately predict its behavior
+
+Almost all known web servers, application servers, and web application environments are susceptible to buffer overflows, the notable exception being environments written in interpreted languages like Java or Python, which are immune
+ to these attacks (except for overflows in the Interpretor itself).
+
+Locating heap overflows requires closer examination in comparison to stack overflows, since there are certain conditions that need to exist in the code for these vulnerabilities to be exploitable.
+
+
+Stack overflows occur when variable size data is copied into fixed length buffers located on the program stack without any bounds checking.
+In fact almost every platform is vulnerable to stack overflows with the following notable exceptions:
+
+J2EE – as long as native methods or system calls are not invoked
+.NET – as long as /unsafe or unmanaged code is not invoked (such as the use of P/Invoke or COM Interop)
+PHP – as long as external programs and vulnerable PHP extensions written in C or C++ are not called can suffer from stack overflow issues.
+
+
+
+Server XSS is caused by including untrusted data in an HTML response. The easiest and strongest defense against Server XSS in most cases is:
+
+Context-sensitive server side output encoding
+The details on how to implement Context-sensitive server side output encoding are presented in the OWASP XSS (Cross Site Scripting) Prevention Cheat Sheet in great detail.
+
+Input validation or data sanitization can also be performed to help prevent Server XSS, but it’s much more difficult to get correct than context-sensitive output encoding.
+
+
+
+
+Client XSS is caused when untrusted data is used to update the DOM with an unsafe JavaScript call. The easiest and strongest defense against Client XSS is:
+
+Using safe JavaScript APIs
+However, developers frequently don’t know which JavaScript APIs are safe or not, never mind which methods in their favorite JavaScript library are safe. Some information on which JavaScript and jQuery methods are safe and unsafe is presented in Dave Wichers’ DOM Based XSS talk presented at OWASP AppSec USA in 2012: Unraveling some of the Mysteries around DOM Based XSS
+
+If you know that a JavaScript method is unsafe, our primary recommendation is to find an alternative safe method to use. If you can’t for some reason, then context sensitive output encoding can be done in the browser, before passing that data to the unsafe JavaScript method. OWASP’s guidance on how do this properly is presented in the DOM based XSS Prevention Cheat Sheet. Note that this guidance is applicable to all types of Client XSS, regardless of where the data actually comes from (DOM or Server)
+
+
+
+
+The primary difference is where the attack is injected into the application. Reflected and Stored XSS are server side injection issues while DOM based XSS is a client (browser) side injection issue. All of this code originates on the server, which means it is the application owner's responsibility to make it safe from XSS, regardless of the type of XSS flaw it is. Also, XSS attacks always execute in the browser. The difference between Reflected/Stored XSS is where the attack is added or injected into the application. With Reflected/Stored the attack is injected into the application during server-side processing of requests where untrusted input is dynamically added to HTML. For DOM XSS, the attack is injected into the application during runtime in the client directly.
+
+
+https://www.owasp.org/index.php/DOM_based_XSS_Prevention_Cheat_Sheet
+
+
+
+
+
+
+
+
+
+HTTP Splitting
+The headers that are the most likely candidates for this attack are:
+
+Location
+Set-Cookie
+
+It must be noted that a successful exploitation of this vulnerability in a real world scenario can be quite complex, as several factors must be taken into account:
+
+To mount a successful exploit, the application must allow input that contains CR (carriage return, also given by %0d or \r) and LF (line feed, also given by %0a or \n)characters into the header AND the underlying platform 
+must be vulnerable to the injection of such characters. These characters not only give attackers control of the remaining headers and body of the response the application intends to send, but also allow them to create additional
+ responses entirely under their control.
+
+
+
+Symmetric:
+
+Key sizes of 128 bits (standard for SSL) are sufficient for most applications
+Consider 168 or 256 bits for secure systems such as large financial transactions
+
+
+
+
+Asymmetric:
+
+The difficulty of cracking a 2048 bit key compared to a 1024 bit key is far, far, far, more than the twice you might expect. Don’t use excessive key sizes unless you know you need them. Bruce Schneier in 2002 (see the references section) recommended the following key lengths for circa 2005 threats:
+
+Key sizes of 1280 bits are sufficient for most personal applications
+1536 bits should be acceptable today for most secure applications
+2048 bits should be considered for highly protected applications.
+
+
+
+
+Hashes:
+
+Hash sizes of 128 bits (standard for SSL) are sufficient for most applications
+Consider 168 or 256 bits for secure systems, as many hash functions are currently being revised (see above).
+
+
+
+
+
+PTES defines penetration testing as 7 phases.
+
+Pre-engagement Interactions
+Intelligence Gathering
+Threat Modeling
+Vulnerability Analysis
+Exploitation
+Post Exploitation
+Reporting
+Instead of simply methodology or process, PTES also provides hands-on technical guidelines for what/how to test, rationale of 
+testing and recommended testing tools and usage.
+
+
+The OWASP Web Application Security Testing method is based on the black box approach. The tester knows nothing or has very little 
+information about the application to be tested.
+
+Phase 1 Passive mode:
+In the passive mode the tester tries to understand the application's logic and plays with the application. Tools can be used for information gathering. For example, an HTTP proxy can be used to observe all the HTTP requests and responses. At the end of this phase, the tester should understand all the access points (gates) of the application (e.g., HTTP headers, parameters, and cookies). The Information Gathering section explains how to perform a passive mode test.
+
+Phase 2 Active mode:
+In this phase the tester begins to test using the methodology described in the follow sections.
+
+
+The set of active tests have been split into 11 sub-categories for a total of 91 controls:
+
+Information Gathering
+Configuration and Deployment Management Testing
+Identity Management Testing
+Authentication Testing
+Authorization Testing
+Session Management Testing
+Input Validation Testing
+Error Handling
+Cryptography
+Business Logic Testing
+Client Side Testing
+Categories: OWASP Tes
+
+
+Using the advanced "site:" search operator, it is possible to restrict search results to a specific domain 
+To display the index.html of owasp.org as cached, the syntax is:
+cache:owasp.org
+PunkSpider is web application vulnerability search engine. It is of little use for a penetration tester doing manual work. However it can be useful as demonstration of easiness of finding vulnerabilities by script-kiddies.
+
+The Google Hacking Database is list of useful search queries for Google. Queries are put in several categories:
+
+Footholds
+Files containing usernames
+Sensitive Directories
+Web Server Detection
+Vulnerable Files
+Vulnerable Servers
+Error Messages
+Files containing juicy info
+Files containing passwords
+Sensitive Online Shopping Info
+
+
+Http webserver fingerprint:
+httprint
+httprecon
+netcraft
+
+
+robots tools:
+Browser (View Source function)
+curl
+wget
+rockspider[7]
+
+nmap: portscanner
+
+
+Within the requests section, focus on the GET and POST methods, as these appear the majority of the requests. Note that other methods, such as PUT and DELETE, can be used. Often, these more rare requests, if allowed, can expose vulnerabilities.
+
+
+
+Intercepting Proxy:
+OWASP: Zed Attack Proxy (ZAP) -> spidering tool (dThe automatic spider is a tool used to automatically discover new resources (URLs) on a particular website)
+OWASP: WebScarab
+Burp Suite
+CAT
+
+
+
+Indentify application entry points pode usar "gray-box testing"
+
+
+
+Black Box testing
+There are several most common locations to look in in order to define the current framework:
+
+HTTP headers
+Cookies
+HTML source code
+Specific files and folders
+File Extensions
+Error Message
+
+
+netcat: nc
+
+
+WhatWeb
+Currently one of the best fingerprinting tools on the market. Included in a default Kali Linux build. Language: Ruby Matches for fingerprinting are made with:
+
+https://www.owasp.org/index.php/Web_Application_Penetration_Testing
+https://www.owasp.org/index.php/Testing_Information_Gathering
+
+Consequently, it is wiser to keep logs in a separate location and not in the web server itself.
+
+
+
+In order to analyze web server attacks the error log files of the server need to be analyzed. Review should concentrate on:
+
+40x (not found) error messages. A large amount of these from the same source might be indicative of a CGI scanner tool being used against the web server
+50x (server error) messages. These can be an indication of an attacker abusing parts of the application which fail unexpectedly. For example, the first phases of a SQL injection attack will produce these error message when the SQL query is not properly constructed and its execution fails on the back end database.
+
+
+The following file extensions should never be returned by a web server, since they are related to files which may contain sensitive information or to files for which there is no reason to be served.
+
+.asa
+.inc
+
+
+
+More specifically, the methods that should be disabled are the following:
+
+PUT: This method allows a client to upload new files on the web server. An attacker can exploit it by uploading malicious files (e.g.: an asp file that executes commands by invoking cmd.exe), or by simply using the victim's server as a file repository.
+DELETE: This method allows a client to delete a file on the web server. An attacker can exploit it as a very simple and direct way to deface a web site or to mount a DoS attack.
+CONNECT: This method could allow a client to use the web server as a proxy.
+TRACE: This method simply echoes back to the client whatever string has been sent to the server, and is used mainly for debugging purposes. This method, originally assumed harmless, can be used to mount an attack known as Cross Site Tracing, which has been discovered by Jeremiah Grossman (see links at the bottom of the page).
+TRACE pode causar XSS
+
+
+The HTTP Strict Transport Security (HSTS) header is a mechanism that web sites have to communicate to the web browsers that all traffic exchanged with a given domain must always be sent over https
+
+
+
+The "Back" button can be stopped from showing sensitive data. This can be done by:
+
+Delivering the page over HTTPS.
+Setting Cache-Control: must-re-validate
+
+
+There are several methods of bypassing the authentication schema that is used by a web application:
+
+Direct page request (forced browsing)
+Parameter modification
+Session ID prediction
+SQL injection
+
+
+
+
+Usually the main steps of the attack pattern are the following:
+
+cookie collection: collection of a sufficient number of cookie samples;
+cookie reverse engineering: analysis of the cookie generation algorithm;
+cookie manipulation: forging of a valid cookie in order to perform the attack. This last step might require a large number of attempts, depending on how the cookie is created (cookie brute-force attack).
+
+
+
+
+COOKIE
+Gray Box testing and example
+If the tester has access to the session management schema implementation, they can check for the following:
+
+Random Session Token
+The Session ID or Cookie issued to the client should not be easily predictable (don't use linear algorithms based on predictable 
+variables such as the client IP address). The use of cryptographic algorithms with key length of 256 bits is encouraged (like AES).
+
+Token length
+Session ID will be at least 50 characters length.
+
+Session Time-out
+Session token should have a defined time-out (it depends on the criticality of the application managed data)
+
+Cookie configuration:
+non-persistent: only RAM memory
+secure (set only on HTTPS channel): Set Cookie: cookie=data; path=/; domain=.aaa.it; secure
+HTTPOnly (not readable by a script): Set Cookie: cookie=data; path=/; domain=.aaa.it; HTTPOnly
+
+
+
+
+
+
+
+
+
+Guardar private code signing keys nos Hardware Security Module (HSM), e não em VM
+
+
+
+Microsoft and the CA
+Security Council (CASC) best practices document recommend separating the
+development and the final production code signing process. 
+
+
+
+Nikto Web Scanner is a Web server scanner that tests Web servers for dangerous files/CGIs, outdated server software and other problems
+. It performs generic and server 
+type specific checks. It also captures and prints any cookies received.
+
+
+nessus - scanner de vulnerabilidade
+tem um cliente, que controla os scans e apresenta pro usuário
+tem um servidor, daemon que faz os scans
+os testes são escritos em NASL (nessus attack scripting language) (otimizada pra rede)
+desabilitando "safe checks", alguns testes podem crashar o sistema testado
+pode fazer testes de dicionário, testar contra as polícias recomendadas pela NSA
+resultados em txt, xml, html, latex
+
+Nessus allows scans for the following types of vulnerabilities:
+
+Vulnerabilities that allow a remote hacker to control or access sensitive data on a system.
+Misconfiguration (e.g. open mail relay, missing patches, etc.).
+Default passwords, a few common passwords, and blank/absent passwords on some system accounts. Nessus can also call Hydra (an external
+tool) to launch a dictionary attack.
+Denials of service against the TCP/IP stack by using malformed packets
+Preparation for PCI DSS audits
+SCADA vulnerability audits
+
+
+
+
+FTK imager : aquisição de dados da memória, gera um .mem. É o padrão de fato utilizado, e é free
+
+pega memória virtual tbm (page file)
+
+p/ analisar o dump usa-se: FTK (profissional), Volatility (Free) é incluso no kali linuxs, ou editor hexadecimal ez: Hex Workshop
+
+Volatiliy é um script python.
+
+
+P/ ver informações do SO e ouitras informações importantes:
+kali > python vol.py imageinfo -f /root/Desktop/memdump.mem
+
+
+kali > python vol.py --profile Win7SP1x64 hivelist -f /location of your image/
+Note that Volatility was able to list all of the hives including their virtual and physical location in RAM.
+
+
+
+Listar os processos rodando:
+kali > python vol.py --profile Win7SP1x64 pslist -f /root/Desktop/memdump.mem
+
+
+To view the running DLLs on the system, we simply use the dlllist plugin like below:
+kali > python vol.py --profile Win7SP1x64 dlllist -f /root/Desktop/memdump.mem
+
+
+ver oq tava no clipboard:
+kali > python vol.py --profile Win7SP1x64 clipboard -f /root/Desktop/memdump.mem
+Retorna em hexadecimal.
+
+
+Getting a timeline of events:
+kali > python vol.py --profile Win7SP1x64 timeliner -f /root/Desktop/memdump.mem
+
+
+Plugin pra ver se tem malware rodando:
+malfind
+
+Plugin p/ ver as portas/conexoes
+connscan
+
+
+
+Memoryze: captura e analiza a memória
+
+
+
+
+It is a good idea to obtain memory for several reasons:
+
+.
+
+You can enumerate the processes and network connection by obtaining the memory snapshot and analyzing it offline.
+If a rootkit is installed and it is actively hiding processes and network connections, you will have a better chance of finding them 
+through analyzing 
+memory than by utilizing native tools such as pslist and fport.
+Memory analysis has a good chance at becoming the incident response and forensic professional's first line tool.
+
+
+
+
+Signature detection with CrowdResponse: usa powerful YARA scanning engine
+YARA, or Yet Another Regex Analyzer, has become one of the leading tools for describing and detecting malware. A YARA rule consists 
+of a series of strings 
+tied together by a Boolean condition. It facilitates searching with text, hex, Unicode, wildcards, case-insensitivity, and regular 
+expressions.
+ Combining these options allows construction of complicated tests to limit false positives.
+As an example, consider this YARA rule:
+
+rule CrowdStrike_Shamoon_DroppedFile
+{ meta:
+description = "Rule to detect Shamoon malware."
+strings:
+$testn123 = "test123" wide
+$testn456 = "test456" wide
+$testn789 = "test789" wide
+$testdomain = "testdomain.com" wide
+$pingcmd = "ping -n 30 127.0.0.1 >nul" wide
+condition:
+(any of ($testn*) or $pingcmd) and $testdomain
+}
+
+
+the @yara plugin can:
+
+Scan all running processes
+Scan on-disk image binaries
+Scan loaded DLLs
+Scan arbitrary files and folders
+Limit scanning by regular expression
+Download rules from a URL and use rule masks to limit selections
+
+
+
+hooks in a system call table are often used by rootkits
+
+
+
+Monitoring Silent Process Exit
+eh parte do windows debugging portfolio.
+gflags.exe
+
+
+OSForensics can acquire live memory on 32bit and 64bit systems. A dump of an individual process's memory space or physical memory 
+dump can be done. 
+Output can be a straight dump or a Microsoft crash dump file, for use with Micrsoft's WinDbg debugger.
+
+
+
+
+
+802.11b, a, g, n and ac -> os mais aceitos
+
+11b e 11g usam 2.4GHZ, podem sofrer interferência com microondas, bluetooth, telefones sem fio...
+controlam por DSSS(direct sequence spreand spectrum) e OFDM (orthogonal frequency division multiplexing)
+
+11a e 11ac usa 5GHZ banda, oferecendo 23 non-overlapping channels, em vez de apenas 3 dos de 2.4GHZ
+
+11n usa qq um dos dois
+
+
+
+
+802.1X é um padrão IEEE para controle de acesso à rede com base em portas que envolve comunicação entre o requisitante, o autenticador
+e o servidor de autenticação
+é baseado no EAP (extensive authentication protocol)
+usa um servidor radius
+
+IEEE 802.1X
+
+- Implementa EAP
+
+- Autenticação
+
+- Usa RADIUS
+
+- Distribuição de chaves criptográficas
+
+- Implementa EAP  (tbm pode usar EAPOL)
+
+O seu posicionamento permite então o encapsulamento de diversas tecnologias de autenticação (TLS, CHAP, KERBEROS e outros). Assim, o 
+padrão 802.1x permite agregar 
+todos os recursos de autenticação dessas tecnologias, podendo autenticar tanto os dispositivos quanto usuários em um mesmo sistema.
+
+
+
+EAP não é um protocolo de redes cabeadas, em vez disso ele só define os formatos de mensagens. Cada protocolo que usa o EAP define uma
+forma de encapsular 
+mensagens EAP dentro de mensagens do referido protocolo.
+
+
+EAP, WEP, WPA, WPA2
+...I.... é um padrão 802.1X que permite aos desenvolvedores passar dados de autenticação entre servidores RADIUS e pontos de acesso sem fio. ..II... 
+faz parte do padrão IEEE 802.11 e usa criptografia RC4 de 64 ou 128 bits. Foram encontradas falhas sérias neste padrão, que permitiam a decodificação passiva da chave RC4.
+ Em resposta às falhas encontradas, o ...III..... foi apresentado, como um subconjunto de especificações de segurança sem fio interoperável do padrão IEEE 802.11.
+ Esse padrão fornece recursos de autenticação e usa TKIP para a criptografia de dados. O padrão ...IV.... , conhecido como IEEE 802.11i, foi criado pela Wi-Fi Alliance 
+e inclui um novo mecanismo de criptografia avançada, que usa o protocolo CCMP (Counter- Mode/CBC-MAC), denominado AES (Advanced Encryption Standard). 
+
+
+WEP usa RC4 de 64/128 bits.
+WPA usa TKIP para criptografia de dados
+WPA2 =  802.11i, protocolo CCMP, usa AES p/ criptografia
+
+
+
+
+
+
+
+
+WPA2 = 802.11i
+O 802.11i funciona utilizando um sistema de criptografia conhecido por AES (Advanced Encription Standard). Esse sistema é mais 
+complexo, fazendo uso de uma arquitetura 
+dos componentes 802.1X para a autenticação, RSN para acompanhar a associação e CCMP para prover confidencialidade, integridade e 
+autenticidade de origem.
+tbm vulnerável a ataque ao WPS
+"E apesar da invasão de uma rede segura WPA / WPA2 através desta falha levar cerca de 2 a 14 horas, ainda é um problema de segurança 
+real, portanto, o WPS deve ser 
+desativado e ainda melhor, o firmware do ponto de acesso deve ser redefinido para uma distribuição que não tenha suporte ao WPS para 
+excluir assim, 
+totalmente este meio de ataque."
+Usa chave de 256 bits (AES é 128, 192 ou 256)
+
+
+WPA
+É um protocolo WEP melhorado. Também chamado de WEP2, ou TKIP (Temporal Key Integrity Protocol)
+Usam chave pré-compartilhada(PSK) e pra criptografia usam TKIP (temporal key integrity protocol)
+é vulnerável a ataques através do sistema WPS (wifi protected setup)
+usa RC4
+
+
+Melhor maneira de proteger wi-fi:
+1. WPA2 + AES
+2. WPA + AES
+3. WPA + TKIP/AES (TKIP existe um método de fallback)
+4. WPA + TKIP
+5. WEP
+6. Rede Aberta (sem qualquer segurança)
+
+A melhor maneira é desativar o Wi-Fi Protected Setup (WPS) e configurar o roteador para WPA2 + AES. E, à medida que você vai descendo 
+na lista, menos protegida sua rede
+vai ficar.
+
+
+O WPA2 é o mais rápido dos protocolos de criptografia, enquanto o WEP é o mais lento (?) (acho que não ein doidão)
+
+
+O Wi-Fi Protected Setup é um método de distribuição de chaves de autenticação alternativa que visa simplificar e fortalecer o 
+processo, mas que, como é amplamente
+implementada, cria uma grande falha de segurança. Por este motivo ele é considerado inseguro.
+
+
+SIDE CHANNEL ATACK
+In computer security, a side-channel attack is any attack based on information gained from the physical implementation of a 
+computer system, rather than weaknesses in the
+implemented algorithm itself 
+ex:
+	cache attack - monitor cache accesses
+	timing attack - tempo de computação dos algoritmos
+	power-monitoring - attacks that make use of varying power consumption by the hardware during computation.
+	eletromagnetic attack
+	acoustic cyptanalysis
+	differential fault analysis : in which secrets are discovered by introducing faults in a computation.
+	data remanence - in which sensitive data are read after supposedly having been deleted.
+	Software-initiated fault attacks - row hammer (padrões de acesso à memória faz com q as cargas "vazem" e interfiram nos 
+arredores, que não estão endereçados no
+ acesso original)
+
+Sobre row hammer:
+	- Consequently, read operations are of a destructive nature because the design of DRAM requires memory cells to be rewritten 
+after their values have been read
+ by transferring the cell charges into the row buffer. Write operations decode the addresses in a similar way, but as a result of the 
+design entire rows must be rewritten
+ for the value of a single bit to be changed.
+Project Zero = row rammer vulnerabilities
+
+
+SRAM - mais cara, menos consumo pois n precisa de atualização contínua pra manter os bytes. Perde os dados apenas após a interrupção 
+de energia
+DRAM - mais barata, precisa de atualização contínua pra manter os bytes
+
+
+
+Modos de Access Points (AP)
+Root: repassa o tráfego sem fio (wireless) para a LAN com fio (cabeada);
+Repeater: repassa o tráfego sem frio (wireless) para um AP conectado à LAN cabeada; colocado dentro do alcance de um AP que esteja conectado a uma LAN com fio (cabeada);
+Bridge: é um arranjo de dispositivos (no mínimo 2) que se conectam via segmentos (no mínimo 2) cabeados de rede;
+
+
+802.11i  WPA2
+Dentre os padrões de protocolos seguros para redes sem fio, há um que, além do cliente e do ponto de acesso (PA), também define um servidor de autenticação 
+com o qual o PA se comunica para realizar a autenticação dos clientes. Esse novo padrão opera em quatro fases: uma de Descoberta, uma de Autenticação Mútua e 
+Geração de Chave Mestra (MK), uma de Geração de Chave Mestra Pareada (PMK) e outra de Geração de Chave Temporal (TK). Além disso, esse padrão oferece várias formas
+de criptografia, incluindo um esquema baseado em AES.
+
+
+
+802.11a -- 5Ghz -- OFDM -- 54Mbps
+802.11b -- 2.4Ghz -- DSSS -- 11Mbps
+802.11g -- 2.4Ghz -- DSSS, OFDM -- 54Mbps
+802.11n -- 2.4, 5Ghz -- OFDM -- 600Mbps            ------> 802.11n usa MIMO (multiplas antenas)
+802.11ad -- 60Ghz -- SC, OFDM -- 6,76Gbps
+802.11ac -- 5Ghz -- OFDM -- 6,93Gbps
+
+
+Para não existir interferência, entre os canais, deve haver um salto de 4 canais entre eles( 1 2345 6 78910 11).
+
+
+
+802.1w RSTP
+3 estágios de porta = EAD encaminhamento, aprendizagem, descarte
+
+STP
+O IEEE 802.1b é um protocolo de comunicação entre bridges ou switches, que tem como único objetivo detectar e eliminar loops em redes e bloquear portas para que esses
+ loops não ocorram.
+
+
+STP
+Spanning-tree
+
+Spanning-Tree (ST) é um algoritmo de camada 2 que:
+
+•Proporciona uma rede livre de loops
+
+•Mantém a redundância em caso de falha
+
+•Opera em um modo a plug & play
+
+•Escolha de melhor caminho em switchs
+
+O ST conseguirá Transformar uma topologia redundante em uma árvore, que, por definição, somente fornece um caminho entre dois nós => sem loop e permite a reconfiguração automática da rede em caso de falhas.
+
+
+
+
+de células: é um tipo de comutação por pacotes, onde são definidas células(pacotes) menores que os pacotes convencionais permitindo, devido ao seu tamanho reduzido,
+ um controle/correção de erros, menor atraso fim-a-fim, reduz instabilidade(principalmente em aplicações por voz) e possui um problema de overhead pelo excesso de cabeçalhos.
+
+
+
+A comutação por pacotes pode ser:
+ 
+
+Com ligação (circuito virtual): é estabelecido um caminho virtual fixo (sem parâmetros fixos, como na comutação de circuitos) e todos os pacotes seguirão por esse caminho.
+ Uma grande vantagem é que oferece a garantia de entrega dos pacotes, e de uma forma ordenada. Ex: ATM (comutação de células), Frame Relay e X.25;
+
+
+Sem ligação (datagrama): os pacotes são encaminhados independentemente, oferecendo flexibilidade e robustez superiores, já que a rede pode reajustar-se mediante 
+a quebra de um link de transmissão de dados. É necessário enviar-se sempre o endereço de origem. Ex: endereço IP.
+
+
+Características: Usam os recursos de forma livre, a medida que for necessário, sem reserva prévia;
+
+Utilizam a largura de banda total disponível para transferir os pacotes (otimização da largura de banda);
+
+Quando a demanda é maior que os recursos oferecidos há congestionamento com uma geração de fila, podendo haver falha e perda de pacote;
+
+Baixa latência;
+
+
+
+
+
+
+
+
+TRESOR -  is a Linux kernel patch which provides CPU-only based encryption to defend against cold boot attacks on computer systems by performing encryption outside
+ usual random-access memory (RAM).
+in TRESOR's case the x86 debug registers and in Loop-Amnesia's case the AMD64 or EMT64 profiling registers
+
+Ataques a sistemas de criptografia
+ataque de temporização é um side channel attack
+Ataques de temporização podem ser aplicados a qualquer algoritmo que tenha tempo variável em função da entrada.
+Encontrar segredos através de ataques de temporização pode ser significantemente mais fácil que utilizar cripoanálise de texto
+ppano conhecido. 
+Em algumas situações informações de tempo combinadas com criptoanálise aumenta o grau de informações expostas.
+
+Informações podem vazar através da medição o tempo gasto para responder a determinadas consultas. A quantidade de informações que pode
+ser exposta depende de diversas
+ variáveis: o sistema criptográfico utilizado, o tempo de execução da CPU, os algoritmos utilizados, detalhes de implementação, 
+medidas contra ataques de temporização, 
+a exatidão da medida de tempo, etc.
+
+Ataques de temporização são normalmente negligenciados na fase de implementação devido a sua forte dependência da implementação.
+
+
+. Assim, podese
+dizer que uma boa cifra de substitui¸c˜ao acrescenta confus˜ao `a informa¸c˜ao,
+enquanto uma boa cifra de transposi¸c˜ao acrescenta difus˜ao
+
+
+Outros sistemas criptogr´aficos sim´etricos s˜ao (29):
+•variantes do DES;
+•Lucifer;
+•RC2, RC4, RC5, RC6;
+•IDEA;
+•Skipjack;
+•Blowfish, Twofish;
+•Safer.
+AES, DES
+
+
+O algoritmo mais utilizado ´e o RSA.
+Outros sistemas criptogr´aficos de chave p´ublica s˜ao (29):
+•Knapsack;
+•Rabin;
+•Schnorr;
+•ElGamal;
+•Curvas El´ipticas.
+
+
+No algoritmo RSA, ap´os a gera¸c˜ao ´e feito um teste de aleatoriedade
+para determinar se o n´umero ´e primo. E a forma encontrada para o n˜ ´ ao
+conhecimento de um algoritmo que gere n´umeros primos grandes.
+
+
+
+Hash:
+Exemplos:
+•MD4 (Message Digest), de 1990;
+•MD5, de 1992;
+•MD2, de 1992;
+•SHA-1 (Secure Hash Algorithm), de 1992
+
+
+
+(i) Assinatura digital: o emissor assina o hash da mensagem cifrando com
+sua chave privativa.
+
+(ii) Autentica¸c˜ao: o receptor calcula o hash da mensagem e compara com
+o hash da mensagem decifrado usando-se a chave p´ublica do emissor. A figura
+3.4 mostra esse esquema de autentica¸c˜ao. Autentica¸c˜ao ´e o processo de se
+verificar a autenticidade de uma dada entidade, de tal forma que se possa ter
+certeza que a entidade ´e realmente quem ela diz ser. Permite tamb´em garantir
+o n˜ao-rep´udio.
+
+(iii) Certificado Digital: possui uma chave p´ublica que ser´a disponibilizada
+para algu´em que quer enviar uma mensagem mas quer ter a certeza da
+autenticidade do dono da chave p´ublica. Uma Autoridade Certificadora (AC)
+assina o certificado, garantindo assim a associa¸c˜ao entre a chave p´ublica e o
+dono. O padr˜ao mais utilizado hoje ´e o X.509, que cont´em v´arios dados, por
+exemplo:
+
+
+No RSA original, a encriptação e a verificação de assinaturas são mais rápidas que a
+desencriptação e a geração de assinaturas, respectivamente, onde assinar uma mensagem
+significa encriptá­la com a chave privada do emissor para que o receptor possa
+desencriptá­la com a chave pública do emissor, verificando assim a sua origem (ver
+secção 2.3). Em algumas aplicações do RSA o desejado é precisamente o inverso. Por
+exemplo, um telemóvel que precisa de gerar uma assinatura RSA que vai ser testada
+num servidor muito mais rápido, seria preferível que assinar fosse mais rápido do que
+verificar.
+
+
+
+
+
+PLCs, just like any other computers, have an operating system (Microware OS-9, VxWorks
+ malware such Havex Remote Access Trojan (RAT) have infected update installers from various ICS vendors. Such malware leaves ICS 
+users baffled as to whether they should 
+update and get infected or not update and get infected anyway.
+Zero day atack
+
+ A built-in security is necessary in a PLC.
+A good security by design for PLCs should allow authentication of devices, access control, auditing and logging, data integrity 
+control, secure booting, ladder logic
+ execution control and encryption at the very least.
+Many layers of protection need to be in place for PLC to be secure. Human risk factors, the protection of the logic inside the PLC, 
+secure communications, application layer
+ security, operating system security, hardware security and last but not least, the management of all aspects of all of the above 
+security requirements.
+
+
+
+
+proteger só a página de login com SSL não protege contra side-jacking, pq o cara pode roubar o cookie ainda. Mesmo sem ter o password 
+ele consegue a sessão. (session sidejacking)
+cross-site scripting: roda um código que ele pensa que é do site real
+Nota: Se você estiver usando plugins/extensões em seu navegador como: NoScript ou o Google chrome com o "XSS Auditor" habilitado, os 
+ataques de Cross Site Scripting em sites
+que estejam vulneráveis não irão funcionar.
+
+Não persistente: usa um campo de busca por exemplo, q o cara insere um script nela e manda pra alguem. Como o site é confiável, a 
+pessoa vai abrir e executar o script
+Persistente: ele insere um dado num site que vai ser mostrado pros outros usuários. Não precisa de engenharia social
+
+
+session fixation: envia email (?) com uma sessão em particular, um cookie. O usuário digita, e dps o cara entra na sessão dnv
+um malware pode pegar o cookie e instalar apps. O atacante pode só roubar dps se tiver acesso físico
+
+
+
+DroidSheep is a simple Android tool for web session hijacking (sidejacking). It listens for HTTP packets sent via a wireless (802.11)
+ network connection and extracts
+ the session id from these packets in order to reuse them. DroidSheep can capture sessions using the libpcap library and supports: 
+open (unencrypted) networks, WEP
+ encrypted networks, and WPA/WPA2 encrypted networks (PSK only). This software uses libpcap and arpspoof.[8][9] The apk was made 
+available on Google Play but it has been
+ taken down by Google.
+
+
+
+
+Mobile Security
+
+Malicious Functionality
+
+Activity monitoring and data retrieval
+Unauthorized dialing, SMS and payments
+Unauthorized network connectivity (exfiltration or command & control)
+UI impersonation
+System modification (rootkit, APN proxy config)
+Logic or time bomb
+
+
+Vulnerabilities
+
+Sensitive data leakage (inadvertent or side channel)
+Unsafe sensitive data storage
+Unsafe sensitive data transmission
+Hardcoded password/keys
+
+
+The mobile code security stack can be broken up into four distinct layers. The lowest layer of the stack is the infrastructure layer, 
+followed upward by the hardware, 
+operating system and application layers.
+
+
+Ext4 - usa no android
+Este sistema de arquivos é capaz de trabalhar com tamanhos muito maiores, já que pode mover arquivos de até 16 TB. Também existe a 
+possibilidade de criar até 64.000
+ subdiretórios, o dobro da capacidade do EXT3.
+A desfragmentação também foi otimizada neste sistema de arquivos, que torna possível desfragmentar arquivos individualmente. Não é 
+mais necessários desmontar o disco para
+ desfragmentar o sistema de arquivos inteiro.
+
+F2FS - flash-friendly file system
+tbm usa no android. é pra SSD, cartão SD...
+
+
+FAT16 - 2gb
+FAT32 - 32gb (4gb arquivo)
+exFAT - 2TB
+
+Android uses the Linux File and Directory Structure which consists of a single root.
+
+
+
+O Apple File System é otimizado para armazenamento de estado sólido (SSD), com foco primário em encriptação (APFS)
+árvores B
+tamanho max de arquivo: 8EiB
+2^63 num max de arquivos
+inode de 64-bits
+
+Clones
+Os clones permitem que o sistema operacional faça cópias de arquivos eficientes no mesmo volume sem ocupar espaço de armazenamento 
+adicional. As alterações em um arquivo
+ clonado são salvas como deltas (diferença entre os dados antigos e atuais), reduzindo o espaço de armazenamento necessário para 
+revisões e cópias de documentos.[3]
+
+O Apple File System suporta de forma nativa criptografia de disco completo e criptografia de arquivo com as seguintes opções:[3]
+
+sem criptografia
+criptografia de chave única
+criptografia de múltiplas chaves, onde cada arquivo é criptografado com uma chave separada e os metadados são criptografados com uma 
+chave diferente.
+
+O Apple File System usa somas de verificação para garantir a integridade dos dados para os metadados, mas não para os dados do usuário.
+
+Em sua primeira geração, o Apple File System não fornece somas de verificação para dados de usuários, mas faz para integridade dos 
+metadados.
+ Ele também não aproveita a memória de acesso aleatório não volátil endereçável por bytes e ainda não suporta a compressão ainda.
+
+
+
+HFS+ - "antigo" da apple 
+8 exabytes partição
+8 EiB arquivo
+255 caracteres por arquivo
+unicode
+bloco de arquivos de até 32 bits
+árvore B
+
+
+
+Apps androids rodam numa "sandbox" -> precisa pedir permissão pra fazer algo fora do app
+Permissões normais cobrem ações como acessar internet, criar ícones, conexão de Bluetooth, e por aí vai. Essas são garantidas por 
+definição e não requerem aprovação do
+usuário. Se um app precisa de uma “perigosa”, a confirmação é requerida.
+
+Perigosos:
+	Calendário
+	Câmera
+	Contatos
+	Localização
+	Telefone
+	Microfone
+	Sensores Corporais
+	SMS
+	Armazenamenmto
+
+
+
+
+Vulnerability scanner such as Nessus to scan weak encryption used in protocol such as SNMP, TLS,SSH
+
+
+DOM XSS:
+Unlike the more common types of cross site scripting (Stored and Reflected) in which the code is sent to the server and then back 
+to the browser, this is executed directly in the user's browser without server contact.
+
+
+
+
+
+CSRF é aquele quando o cara já tá logado num lugar, e o outro site manda um link com um formulário do site que vc tá logado, fazendo 
+alguma ação.
+N faz sentido a ação ser de consulta, pq o atacante n vai ver. Tem que ser por ex: transferir dinheiro pra minha conta
+Prevenções contra CSRF (Cross-Site_Request_Forgery) que não funcionam:
+using a secret cookie
+only accepting POST requests
+multi-step transactions
+URL-rewriting
+HTTPS
+
+CSRF relies on the following:
+Web browser behavior regarding the handling of session-related information such as cookies and http authentication information
+Knowledge by the attacker of valid web application URLs
+Application session management relying only on information which is known by the browser
+Existence of HTML tags whose presence cause immediate access to an http[s] resource; for example the image tag img
+
+POST:
+Este método utiliza a URI (de Uniform Resource Identifier) para envio de informações ao servidor. A URI não é retornável ao cliente, 
+o que torna o método POST mais seguro, pois não expõe os dados enviados no navegador. 
+POST EH MAIS SEGURO
+
+
+Quando é POST:
+Such a request cannot be delivered using standard A or IMG tags, but can be delivered using a FORM tag:
+
+Quando é PUT ou DELETE:
+tem um procedimento, mas:
+Fortunately, this request will not be executed by modern web browsers thanks to same-origin policy restrictions. This restriction is enabled by default unless the target
+ web site explicitly opens up cross-origin requests from the attacker's (or everyone's) origin by using CORS with the following header:
+
+- Validate URLs passed to XMLHttpRequest.open. Current browsers allow these URLs to be cross domain; this behavior can lead to code injection by a remote attacker. Pay extra
+ attention to absolute URLs.
+- Allow only selected, trusted domains in the Access-Control-Allow-Origin header. Prefer whitelisting domains over blacklisting or allowing any domain (do not use * wildcard
+ nor blindly return the Origin header content without any checks).
+- Keep in mind that CORS does not prevent the requested data from going to an unauthenticated location. It's still important for the server to perform usual CSRF prevention.
+
+
+
+
+MD5 n é collision resistant
+
+
+code signing atack - assinatura digital
+Stuxnet - usava code signing. Atacou usinas nucleares do iran
+
+
+
+
+
+
+Art. 86. Admitida a acusação contra o Presidente da República, por dois terços da Câmara dos Deputados, será ele submetido a 
+julgamento perante o Supremo Tribunal Federal,
+ nas infrações penais comuns, ou perante o Senado Federal, nos crimes de responsabilidade.
+§ 1º O Presidente ficará suspenso de suas funções:
+
+I - nas infrações penais comuns, se recebida a denúncia ou queixa-crime pelo Supremo Tribunal Federal;
+
+II - nos crimes de responsabilidade, após a instauração do processo pelo Senado Federal.
+
+§ 2º Se, decorrido o prazo de cento e oitenta dias, o julgamento não estiver concluído, cessará o afastamento do Presidente, 
+sem prejuízo do regular prosseguimento do 
+processo.
+
+§ 3º Enquanto não sobrevier sentença condenatória, nas infrações comuns, o Presidente da República não estará sujeito a prisão.
+
+§ 4º O Presidente da República, na vigência de seu mandato, não pode ser responsabilizado por atos estranhos ao exercício de 
+suas funções.
+
+
+Acho que esta ERRADO pois até onde eu sei a graça é individual. Nesse caso deveria ser indulto que é dados a vários indivíduos.
+anistia é pelo congresso
+
+
+§2º Desde a expedição do diploma, os membros do Congresso Nacional não poderão ser presos, salvo em flagrante de crime inafiançável. 
+Nesse caso, os autos serão remetidos
+ dentro de 24 horas à Casa respectiva, para, pelo voto da maioria de seus membros, resolva pela prisão.
+
+Recomendo a leitura do resumo:
+http://www.artedosconcursos.com/2013/02/resumos-imunidades-parlamentares.html
+
+Federação = Forma de Estado
+República = Forma de Governo
+Regime - democrático
+Sistema - presidencialista ou parlamentarista
+
+
+
+camara dos deputados: princípio proporcional
+senado: princípio majoritários
+
+
+- CPI pode:
+
+1º) Convocar testemunha para depor. Se ela não for, pode conduzir testemunha coercitivamente.
+
+2º) Realizar acareações.
+
+3º) Pode efetuar prisão em flagrante.
+
+4º) Pode decretar quebra do sigilo bancário, fiscal, telefônico(dados,a conta do telefone). 
+
+Deve ser decisão colegiada e fundamentada.
+
+- CPI não pode:
+
+1º) Decretar prisão, exceto em flagrante.
+
+2º) NÃO pode quebrar o SIGILO DAS COMUNICAÇOES TELEFÔNICAS (interceptação telefônica).
+
+3º) Não pode decretar bloqueio/indisponibilidade de bens. Primeiro porque é medida cautelar, e também porque está sujeito à 
+Reserva de Jurisdição.
+
+4º) Não pode decretar busca e apreensão domiciliar.
+
+
+Art. 73. O Tribunal de Contas da União, integrado por nove Ministros, tem sede no Distrito Federal, quadro próprio de pessoal e 
+jurisdição em todo o território nacional,
+ exercendo, no que couber, as atribuições previstas no art. 96.
+
+..
+§ 2º - Os Ministros do Tribunal de Contas da União serão escolhidos:
+
+I - um terço pelo Presidente da República, com APROVAÇÃO DO SENADO FEDERAL, Federal, sendo dois alternadamente dentre auditores e 
+membros do Ministério Público junto ao
+ Tribunal, indicados em lista tríplice pelo Tribunal, segundo os critérios de antigüidade e merecimento;
+
+II - dois terços pelo Congresso Nacional.
+
+
+§ 3° Os Ministros do Tribunal de Contas da União terão as mesmas garantias, prerrogativas, impedimentos, vencimentos e vantagens 
+dos Ministros do Superior Tribunal de Justiça,
+ aplicando-se-lhes, quanto à aposentadoria e pensão, as normas constantes do art. 40. 
+
+§ 4º - O auditor, quando em substituição a Ministro, terá as mesmas garantias e impedimentos do titular e, quando no exercício das 
+demais atribuições da judicatura,
+ as de juiz de Tribunal Regional Federal.
+
+
+
+
+
+Competência Legislativa privativa da União (art. 22, I CF. 1988) CAPACETE PM: .
+C - civil
+A - agrário
+P - penal
+A - aeronáutico
+C - comercial 
+E - espacial
+T - trabalho
+E - espacial
+P - processual 
+M - marítimo
+Agora os de competência CONCORRENTE da União, Estados, DF ( art. 24, I e II CF 1988) PUTO FE 
+P - penitenciário
+U - urbanístico
+T - tributário
+O - orçamentário
+F- financeiro
+E- economico
+
+
+
+# Compete ao SENADO FEDERAL, julgar, nos CRIMES DE RESPONSABILIDADE :
+I - P.R ; 
+II - Vice- P.R ; 
+III - Ministros de Estado;
+IV - Comandantes da da marinha, do exército e da aeronáutica;
+V - Ministros do STF;
+VI - Membros do CNJ, e do CNMP;
+VII - PGR;
+VIII - AGU
+
+
+
+# Compete privativamente ao Presidente da República :
+VI - dispor, mediante DECRETO, sobre :
+a) organização e funcionamento da administração federal, quando NÃO implicar aumento de despesa nem criação ou extinção de orgãos públicos;
+b) extinção de funções ou cargos públicos, quando vagos.
+OBS .: essas atribuições podem ser delegadas aos Ministros de Estado, ao Procurador Geral da República ou ao Advogado Geral da União, 
+que observarão os limites traçados nas
+ respectivas delegações.
+I - decretar e executar a intervenção federal;
+III - conceder indulto e comutar penas, com audiência, se necessário,dos orgãos instituídos em lei.
+
+
+Sim Leonardo, espero ajudar... com sanção ( substantivo ), sem sanção ( verbo ) sempre uso e dá certo... quando tiver ação verbal 
+no caso acima será sem a sanção do 
+presidente.
+
+
+
+Art. 12 § 3º São privativos de brasileiro nato os cargos: (PVPPMCOM)
+I - de Presidente e Vice-Presidente da República;
+II - de Presidente da Câmara dos Deputados;
+III - de Presidente do Senado Federal;
+IV - de Ministro do Supremo Tribunal Federal;
+V - da carreira diplomática;
+VI - de oficial das Forças Armadas;
+VII - de Ministro de Estado da Defesa.
+
+
+
+
+
+Search Path
+Search Path is well documented by Microsoft and defaults to:
+
+The directory from which the application is loaded
+The current directory
+The system directory, usually C:\\Windows\\System32\\ (The GetSystemDirectory function is called to obtain this directory.)
+The 16-bit system directory – There is no dedicated function to retrieve the path of this directory, but it is searched as well.
+The Windows directory. The GetWindowsDirectory function is called to obtain this directory.
+The directories that are listed in the PATH environment variable
+
+As we can see above, anyone who can write to the current directory can potentially introduce rogue DLL, and since the order of loading DLL’s from current directory is high,
+ then it will be loaded by the executable as a first match.
+
+
+
+https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-dll-sideloading.pdf
+
+
+Enable SafeDllSearchMode so that exploiting the search path becomes more difficult for the attacker. Hwne SafeDllSearchMode has enabled the search path order changes to 
+follow.
+
+The directory from which the application loaded.
+The system directory. GetSystemDirectory function can be used to get the path of this directory.
+The 16-bit system directory.
+The Windows directory. GetWindowsDirectory function can be used to get the path of this directory.
+The current directory.
+The directories that are listed in the PATH environment variable. Note that this does not include the per-application path specified by the App Paths registry key. 
+The App Paths key is not used when computing the DLL search path.
+
+As we can see above Current Directory is shifted from 2nd to 5th position in the order of search path.
+
+Other than this developer should write secure code o order to load directories from specified path only. Also, make sure that only signed DLLs are loaded for most systems
+ process and applications.
+
+
+DLLImport importa estaticamente
+loadlibrary() dinamico
+
+
+
+By default if a software is installed on the C:\ directory instead of the C:\Program Files then authenticated users will have write access on that directory.
+
+
+
+
+In order to be able to escalate privileges via DLL hijacking the following conditions needs to be in place:
+	Write Permissions on a system folder
+	Software installation in a non-default directory
+	A service that is running as system and is missing a DLL
+	Restart of the service
+
+
+
+
+
+
+
+A arquitetura Dual-Homed Host requer apenas uma máquina, que terá duas interfaces de rede e funcionará como um separador entre as duas redes, interna e externa.
+A arquitetura Screened Host é formada por um filtro de pacotes, conhecido como screening router, e um bastion host. O filtro deve ter regras que permitam o tráfego para a 
+rede interna somente por meio do bastion host.
+Screened Subnet apresenta como característica a rede interna e externa separadas por uma zona desmilitarizada (DMZ) = nível de segurança maior
+
+
+Em geral, uma APT não é detectada por antivírus ou por softwares IDS firmados em assinaturas. CERTO 
+Isso acontece pois esse tipo de ataque é tão direcionado e específico que as ferramentas comuns de segurança não são capazes de detectá-los.
+
+
+
+
+NIDS - 
+HIDS - 
+NIDS - Network Intrusion detection system - Esses sistemas buscam atuar a nível da rede, analisando o tráfego de entrada e saída. É o tipo mais utilizado.
+Como vantagens, podemos citar:
+- Se bem planejado, pode-se utilizar NIDS em pontos estratégicos da rede, reduzindo custos e aumentando o grau de defesa;
+- Atuando em modo passivo, não impactam no desempenho da rede;
+- Difíceis de serem detectados por atacantes;
+- Pode monitorar atividades suspeitas em portas conhecidas, como a porta TCP 80, que é utilizada pelo HTTP.
+
+- Com o NIDS funcionando, é difícil que um hacker possa apagar seus rastros, caso consiga invadir um equipamento.
+
+- NIDS é eficiente principalmente contra ataques como port scanning, IP spoofing ou Syn flooding e é também capaz de detectar ataques de buffer overflow.
+
+Como desvantagens, podemos citar:
+- Diante de tráfego intenso, pode não ser muito eficiente;
+- Os switches e roteadores mais modernos já possuem recursos de NIDS embutidos;
+- Incapacidade de analisar informações criptografadas;
+- Incapacidade de bloquear o ataque, restando apenas a detecção;
+
+
+Vantagens dos IDS baseados em estação:
+            - Como podem monitorar eventos localmente, os IDS de estação conseguem detectar ataques que não conseguem ser detectados por IDS de rede;
+            - Trabalham em ambientes onde o trafego seja criptografado, desde que os dados sejem encriptados na estação antes do envio ou decriptados nos host após o 
+recebimento;
+            - Não são afetados por switches;
+
+Desvantagens dos IDS baseados em estação:
+            - São de difícil monitoramento, já que em cada estação deve ser instalado e configurado um IDS;
+            - Podem ser desativados por DoS;
+		- NAO DETECTA SMURF
+            - Recursos computacionais são consumidos nas estações monitoradas, com diminuição do desempenho;
+            - O IDS pode ser atacado e desativado, escondendo um ataque, se as fontes de informações residirem na estação monitorada;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPsec - tunelamento nível 3 - Rede
+
+L2TP, L2F e PPTP - tunelamento nível 2 - Enlace
+
+
+IPsec
+AH - I   ntegridade
+     A  utenticação
+
+ESP - C onfidencialidade (sigilo)
+      I ntegridade
+      A utenticação
+
+
+O 3DES utiliza chaves fixas de 64 bits; 8 são bits de paridade. A chave real tem 56 bits.
+ 
+
+
+IPsec
+Modo de transporte: o modo transporte é usado para comunicações de hospedeiro-a-hospedeiro. Ele encripta e/ou autentica SOMENTE os dados IGNORANDO o cabeçalho.
+
+Modo de tunelamento (fim-a-fim): no modo de tunelamento podem ser rede-a-rede, hospedeiro-a-rede e hospedeiro-a-hospedeiro. Diferente do modo de transporte, ele encripta
+ e/ou autentica TODO o pacote (cabeçalho e dados). É criado um novo pacote IP, onde um pacote com o IP original é colocado.
+
+
+Na VPN, os protocolos Layer 2 Tunneling Protocol (L2TP) e o Point-to-Point Tunneling Protocol (PPTP) fazem uso apenas da autenticação
+outro ex. de protocolo de tunelamento é o SSTP
+
+Layer 2 Tunneling Protocol (L2TP) é uma opção mais segura, uma vez que trabalha em conjunto com o protocolo IPSec que utiliza algoritmos de criptografia mais seguros do PPTP. O mais forte L2TP usa criptografia 168 bit chaves e 
+algoritmo de criptografia 3DES.
+
+Ao contrário do L2TP/IPsec, o PPTP não requer o uso de uma infra-estrutura de chave pública (PKI).
+
+
+SSTP
+Secure Socket Tunneling Protocol (SSTP) é o protocolo SSL VPN. Ele usa 2.048 bits para autenticações e uma criptografia mais seguro, tornando-se o protocolo VPN mais seguro
+ disponível.
+SSTP usa a porta TCP 443, permitindo-lhe trabalhar em ambientes de rede onde outros protocolos VPN estão bloqueados. Isto é muito útil em redes corporativas ou universitários
+que bloqueiam conexões VPN e, em alguns países como Belize, que não permitem VPN.
+SSTP VPN é mais rápido e mais confiável do que produtos VPN SSL semelhantes, como o OpenVPN.
+
+
+
+
+
+Firewall pessoal é um tipo específico de firewall que é utilizado para proteger um computador contra acessos não autorizados vindos da Internet.
+As configurações do firewall dependem de cada fabricante. De forma geral, a mais indicada é:
+- liberar todo tráfego de saída do seu computador (ou seja, permitir que seu computador acesse outros computadores e serviços) e;
+- bloquear todo tráfego de entrada ao seu computador (ou seja, impedir que seu computador seja acessado por outros computadores e serviços) e liberar as conexões conforme
+ necessário, de acordo com os programas usados.
+
+- firewall de filtro de pacotes opera com WHITE LIST
+- gateway de aplicacao (proxy) operam com BLACK LIST
+
+proxy: camada de aplicação
+
+
+Dual homed host: o servidor possui duas placas de redes, separando as duas redes.
+
+INTERNET - SERVIDOR - LAN
+
+- Screened Host: filtro de pacotes e um bastion Host dentro da rede.
+
+INTERNET - ROTEADOR - BASTION HOST - LAN
+
+- Screened Subnet: uso de zona desmilitarizada (DMZ), bastion host fica dentro da DMZ (abriga os serviços expostos).
+
+INTERNET - FIREWALL - DMZ( BASTION HOST) - FIREWALL - LAN
+
+
+
+
+
+
+IDA pro = disassembler
+
+There are two types of disassembler algorithms: linear and flow-oriented.
+Linear disassembly is easier to implement, but it’s also more error-prone.   ---> usado por debuggers
+
+
+
+A more advanced category of disassembly algorithms is the flow-oriented disassembler.
+This is the method used by most commercial disassemblers such as
+IDA Pro.
+
+
+
+
+Ameaças Persistentes Avançadas (APTs) são ameaças em que a exfiltração de dados é muitas vezes um objetivo primário.
+Uma pesquisa feita com 522 profissionais de segurança pela McAfee mostra que, em 32% dos casos, os criminosos usam criptografia para “disfarçar” os dados. Em seguida,
+ ocorre a compressão em 22% dos casos e, então, o chunking e a ofuscação, ambos em 15% das ocorrências.
+chunking = quebrar em vários pacotes
+
+
+
+
+Conclusion
+In order to be able to escalate privileges via DLL hijacking the following conditions needs to be in place:
+
+Write Permissions on a system folder
+Software installation in a non-default directory
+A service that is running as system and is missing a DLL
+Restart of the service
+
+
+
+
+
+-Diante do Pronome Relativo "Que" não há artigo, logo o termo composto "à que" esta errado.
+
+
+Função referencial da linguagem: se fundamenta no "referencial", na mensagem que se quer passar. Visa principalmente informar o interlocutor.
+
+
+E há um pressuposto ----------> "um pressuposto" OD do verbo Haver 
+
+E existe um pressuposto -----> "um pressuposto" Sujeito do verbo Existir 
+
+
+
+O pronome "SE" será ÍNDICE DE INDETERMINAÇÃO DO SUJEITO quando o verbo for VI, VTI, VL e estiver na 3ª pessoa do singular.
+
+Logo, o correto seria "TRATA-SE DE PESSOAS SÉRIAS", pois o pronome SE é ÍNDIDE DE INDETERMINAÇÃO DO SUJEITO e também não é possível sujeito preposicionado na língua
+ portuguesa.
+
+
+
+Só poderia haver supressão do acento grave, caso estivéssemos diante de caso de crase facultativa: 
+1) Antes de nomes possessivos 
+2) Antes de nomes femininos 
+3) Depois da palavra até.
+
+
+MNEMÔNICO PARA DECORAR CASOS DE CRASE FACULTATIVA:
+
+" ATÉ SUA MARIA "
+
+PALAVRA ATE
+POSSESSIVOS
+NOMES FEMININOS
+
+
+
+Parágrafo único.  Nas hipóteses de afastamentos ou impedimentos legais ou regulamentares e na vacância dos cargos de Diretor-Geral e de Diretor-Adjunto, a Direção-Geral 
+da ABIN será exercida pelo Secretário de Planejamento e Gestão
+
+
+
+
+reservada 5 anos
+secreta 15 anos
+ultra-secreta 25 anos prorrogável uma única vez
+
+Fornecimento imediato da informação com prazo de 20 dias + 10 pra fornecer a informação caso n seja possível
+
+
+10 dias prazo pra interpor recurso
+5 dias o prazo pra autoridade se manifestar
+
+se for negado, pode recorrer à CGU, que terá 5 dias pra dizer alguma coisa
+
+
+
+§ 3o  Negado o acesso à informação pela Controladoria-Geral da União, poderá ser interposto recurso à Comissão Mista de Reavaliação de Informações, a que se refere o art. 35. 
+
+§ 1o  As sanções previstas nos incisos I, III e IV poderão ser aplicadas juntamente com a do inciso II, assegurado o direito de defesa do interessado, 
+no respectivo processo, no prazo de 10 (dez) dias.   (se o cara negar possuir a informação mas n seguir a lei)
+
+
+
+revogação ex-nunc na nuca     NAO RETROAGE
+anulação (INVALIDAÇÃO) ex-tunc na testa     RETROAGE
+
+
+
+reVErsão - retorno do VEio aposentado.
+REinTegração = RETorno do demitido. 
+
+
+exoneração não é penalidade
+
+
+IMPROBRIDADE ADM
+Se na época em que estava trabalhando, o servidor praticou falta punível com demissão, agora o castigo dele é ter sua aposentadoria cassada !
+Lei 8.112 - Art. 134.  Será cassada a aposentadoria ou a disponibilidade do inativo que houver praticado, na atividade, falta punível com a demissão.
+
+
+
+
+Preveem-se dois tipos de atos de improbidade administrativa: os próprios, realizados pelo próprio agente público contra a administração; e os impróprios, oriundos da participação de terceiros que concorram com o agente público,
+ materialmente ou por indução, e que também obtenham benesses dessa improbidade.
+
+
+A administração pública, em seu sentido formal/subjetivo/organico, compreende as pessoas jurídicas, os órgãos e os agentes que exercem função administrativa. 
+Por outro lado, em seu sentido material/objetivo/funcional, designa a natureza da atividade exercida por esses entes.
+
+
+       LICENÇAS é vinculado e definitivo
+
+  Lembrar que:   AUTORIZAÇÃO é discricionário e precário
+
+                      PERMISSÃO  é discricionário e precário     
+
+
+julgar contas dos adm públicos: TC
+julgar contas do presidente da república: CN
+sustação de contratos: TC determina, se n cumprir, informa o CN, se n cumprir em até 90 dias, TC decidirá sobre a sustação;
+aprecirar (parecer prévio) das contas do PR: TC
+
+recurso só cabe ao próprio TC, ressalvando o judiciário q pode anular por ilegalidade (mas nunca rever)
+
+Deve-se observar que o Tribunal de Contas n„o tem o dever de prestar
+informaÁies solicitadas individualmente por um parlamentar. A solicitaÁ„o
+deve ser do Congresso, de qualquer de suas Casas
+
+
+omissão -> mandado de segurança repressivo
+
+No Brasil, vigora a responsabilidade objetiva do Estado, na
+modalidade de risco administrativo,
+
+Essa modalidade n„o alcanÁa, porÈm, os danos decorrentes de
+omiss„o da AdministraÁ„o P ?blica, que, nesses casos, ser„o indenizados
+conforme a teoria da culpa administrativa.
+
+Quando for por omissão, resp. subjetiva. (omissão imprópria) REGRA
+			resp. objetiva.  (omissão própria) EXCEÇÃO ex: garantir a guarda dos presos
+
+
+Teoria: Risco Administrativo ---> Responsabilidade Objetiva  Estado---> Independe de dolo ou culpa 
+Culpa Administrativa Ou Culpa Anônima do serviço ---> depende de dolo ou culpa  ---> Responsabilidade Subjetiva  Estado
+
+ 
+Art. 37, § 4º - Os atos de improbidade administrativa importarão a suspensão dos direitos políticos, a perda da função pública, a indisponibilidade dos bens e o ressarcimento ao erário, na forma e gradação previstas em lei, 
+sem prejuízo da ação penal cabível.
+
+ 
+IMP ADM:
+P.A.R.I.S
+perda da função pública
+
+ação penal cabível
+
+ressarcimento ao erário
+
+indisponibilidade dos bens
+
+suspensão dos direitos políticos
+
+
+
+Caráter preventivo:
+1) indisponibilidade dos bens (art. 7, par. Unico);
+2) sequestro de bens (art. 16).
+Complementando:
+SANÇÕES ADMINISTRATIVAS (perda da função pública e proibição de contratar com o poder público ou dele receber benefícios crediticios ou fiscais;
+SANÇÕES CIVIL ( multa civil, ressarcimento ao erário e perda dos bens acrescidos iliciatemente ao patrimônio);
+SANÇÕES POLÍTICAS (suspensão dos direitos políticos).
+
+
+# Salvo disposição legal específica, é de 10 das, o prazo para interposição de recurso administrativo, contado a partir da ciência ou divulgação oficial da decisão recorrida.
+
+
+
+Art 24: prazos prática do ato: 5 dias
+Art. 26: intimação comunicação dos atos: 3 dias
+Art. 41: intimação-da instrução: 3 dias
+Art. 42: órgão-parecer: 15 dias
+Art. 44: direito de manisfestar-se : 10 dias
+Art. 49: prazo de decidir: 30 dias + 30 prorrogável 
+Art. 56: prazo p/ reconsiderar: 5 dias
+Art. 59: interposição do recurso: 10 dias - §1°: 30+30
+Art. 62: alegações finais/de recursos: 5 dias
+
+
+
+Comissiva---- é uma ação. responsabilidade objetiva.independente de dolo ou culpa.
+Omissiva-- omissão de uma ação-Elemento subjetivo é a culpa.Responsabilidade subjetiva
+
+
+
+Resuminho da Responsabilidade Civil do Estado
+
+1° > Teoria do Risco Administrativo:
+
+1 - Essa é a regra aplicada;
+
+2 - A responsabilidade do Estado é objetiva;
+
+3 - Os atos são comissos;
+
+4 - Essa teoria acontece quando ocorre o nexo causal entre um fato e um dano moral ou material a alguém ; 
+
+5 - Não interessa se o agente público agiu de má fé ou de boa fé, nem se agiu dentro da lei, se causou o dano existirá a responsabilidade do Estado;
+
+6 - Existem as causas excludentes da responsalidade objetiva do Estado, e essas são:
+- Força maior;
+- Caso fortuito;
+- Culpa exclusiva da vítima;
+- Culpa de terceiros;
+
+7 - Nesses casos em que o Estado tem que pagar à pessoa que sofreu o dano, ele pode entrar com uma ação regressiva contra o agente público ,que causou o dano, mas tem que existir o DOLO ou a CULPA do agente. 
+
+2° > Teoria da Culpa Administrativa:
+
+1 - A responsabilidade do Estado é subjetiva;
+
+2 - Os atos são omissos;
+
+3 - Por exemplo: Numa ausência da prestação do serviço público, há necessidade de uma representação do ofendido.
+
+3° > Teoria do Risco Integral:
+
+1 - O Estado sempre responde;
+
+2 - Ela acontece em casos como: Dano nuclear e Dano ambiental;
+
+4° > A responsabilidade é a seguinte:
+
+1 - A pessoa jurídica de direito público responde objetivamente pelos danos, ex.: União, DF, Estado, Municípios, Autarquias, Fundações Públicas;
+
+2 - A pessoa jurídica de direito privado prestadora de serviço público responde objetivamente pelos danos;
+
+3 - A sociedade de economia mista e a empresa pública - exploradores de atividade econômica - não respondem objetivamente;
+
+5° > A responsabilidade do Estado é objetiva quando alguém está sob sua custódia e comete algum dano.
+
+6° > Existe atenuante de responsabilidade quando as partes concorrem para o evento danoso.
+
+
+
+A responsabilidade Objetiva tem sustentação da teoria do risco administrativo mitigado.
+Subjetiva chama-se teoria da culpa adm
+
+Responsabilidade objetiva : só provar Dano e o Nexo, independe da prova Dolo ou Culpa.
+Responsabilidade subjetiva : Dano + Nexo e tbm provar Dolo ou Culpa.
+
+
+É defesa aos Poderes Judiciário e Legislativo a criação de entidades da administração indireta, como autarquias e fundações públicas.
+ERRADO, pois isso significa que é proibido aos poderes.....
+
+
+Recondução é o retorno do servidor estável ao cargo anteriormente ocupado e decorrerá de:
+I - inabilitação em estágio probatório relativo a outro cargo;
+II - reintegração do anterior ocupante.
+Somente tem direito à recondução o servidor estável.
+Encontrando-se provido o cargo de origem, o servidor será aproveitado em outro ou colocado em disponibilidade para posterior aproveitamento.
+ o servidor tem de retornar ao exercício do cargo ATÉ O DIA SEGUINTE ao da ciência do ato de recondução.
+
+
+Como eu decorei: ReaDapitação: - Lembre de Deficiente "D"
+ReinTegração: Lembre de Tudo de Volta "T"
+ReCondução: Lembre de Coitado "C"
+ReVersao: Velho "V" 
+Aproveitamento: Lembre de uma pessoa deitada esperando.
+Promoçoão: "P" Parabéns (acho que esse não tem dificuldade).
+
+
+Regra geral: Em caso de OMISSÃO o Estado tem responsabilidade SUBJETIVA. (culpa ou dolo)
+A jurisprudência do STJ excepcionalmente exclui a necessidade de aferição de culpa para a responsabilidade civil do Estado em face de ato OMISSIVO quando há o dever de guarda. Nesse caso a responsabilidade é OBJETIVA.
+
+Exemplo: Presidiário sob custódia do Estado que se suicida. Responsabilidade objetiva decorrente da omissão estatal!!
+
+
+
+Procedimento Administrativo:
+Qualquer pessoa poderá representar à autoridade administrativa competente para que seja instaurada investigação destinada a apurar a prática de ato de improbidade.
+
+Processo Judicial:
+A ação de improbidade administrativa pode ser proposta pelo Ministério Público ou pela pessoa jurídica interessada.
+
+
+
+Art. 13. Não podem ser objeto de delegação:
+I - a edição de atos de caráter normativo;
+II - a decisão de recursos administrativos;
+III - as matérias de competência exclusiva do órgão ou autoridade
+
+
+CF/88
+Art. 38. Ao servidor público da administração direta, autárquica e fundacional, no exercício de mandato eletivo, aplicam-se as seguintes disposições: 
+II - investido no mandato de Prefeito, será afastado do cargo, emprego ou função, sendo-lhe facultado optar pela sua remuneração;
+
+III - investido no mandato de Vereador, havendo compatibilidade de horários, perceberá as vantagens de seu cargo, emprego ou função, sem prejuízo da remuneração do cargo eletivo, e, não havendo compatibilidade, será aplicada a 
+norma do inciso anterior;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+remoção - muda a unidade, o estado, e talz. Muda só a localização, mas é a mesma carreira. É lícita a permuta entre servidores do mesmo cargo, mediante autorização das chefias
+redistruibuição - muda o cargo, o órgão
+
+MACETE!
+REMOÇAO é o deslocamento do servidor
+REDISTRIBUIÇAO é o deslocamento do cargo
+
+
+
+Macete:
+consulTa pública = inTeresse público. escriTo
+
+audiêNCIA pública = relevâNCIA pública. Oralidade
+
+
+Se é decisão liminar, o servidor deve estar ciente que é APENAS UMA DECISÃO PROVISÓRIA DO JUDICIÁRIO.  Ou seja, o julgamento final ainda não foi dado, portanto ele corre o risco de ser exonerado ao final do processo.
+
+
+
+
+Na centralização, a pessoa política desempenha suas tarefas diretamente por meio de seus órgãos. Nesse caso, a própria pessoa estatal
+
+(União, Estados, DF e Municípios).
+
+A descentralização pode ser por outorga, isto é, o Estado cria, por lei, uma pessoa jurídica (entidade administrativa) que integra a Administração indireta (autarquias,fundações, empresas públicas e sociedades de economia mista).
+
+
+
+
+São atos ordinatórios:
+as instruções;
+as circulares;
+os avisos;
+as portarias;
+as ordens de serviço;
+os ofícios
+os despachos.
+
+
+Vantagens que o servidor tem direito IGA ou GAI = Indenização, gratificação, adcionais. 
+Indenizações que o servidor tem direito DATA = Diárias, ajuda de custo, transporte, auxílio moradia
+
+
+
+
+Atos enunciativos são aqueles que estabelecem opiniões e conclusões do ente estatal.
+São exemplos: atestado, certidão, apostila ou averbação e PARECER.
+
+
+
+
+Art. 129. São funções institucionais do Ministério Público:
+
+III - promover o inquérito civil e a ação civil pública, para a proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos e coletivos;
+DEFESA DE INTERESSES COLETIVOS
+
+
+
+Autarquias são criadas por lei e são de direito público. Empresa Pública é autorizada por lei e é de direito privado.
+
+
+
+A fim de preservar direitos e garantias individuais, o Tribunal de Contas dará tratamento sigiloso às denúncias e representações, até decisão definitiva sobre a matéria.
+
+Denúncias: tratamento sigiloso até a decisão definitiva
+Representações: tratamento público
+
+
+
+
+Nomeação de cargos em comissão não são aprecidadas pelo Tribunal de conta.
+
+
+
+A convalidação só se aplica a dois requisitos: COMPETÊNCIA E FORMA.
+Finalidade, objeto e motivo não aceitam convalidação. Logo, se há vicio no requisito da finalidade deve haver a anulação do ato.
+
+
+Sindicância: 30 (+30)
+Pad: 60. (+60)
+Pad sumário: 30(+15)
+
+
+
+
+Súmula vinculante 44 STF: Só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público.
+
+
+
+
+(Maria Sylvia Di Pietro) Não se revogam:
+- Atos vinculados;
+- Ato exaurido/consumado;
+- Atos procedimentais;
+- Atos enunciativos/declaratórios;
+- Atos que geram direito adquirido/subjetivo
+
+
+
+
+
+
+
+
+
+(1) ATOS QUE SÃO DISCRICIONÁRIOS = AQUELES QUE POSSUEM A LETRA ''R'' EM SEU NOME:
+
+EX: AUTORIZAÇÃO / APROVAÇÃO / PERMISSÃO
+
+
+(2) ATOS QUE SÃO VINCULADOS = AQUELES QUE NÃO POSSUEM A LETRA ''R'' EM SEU NOME:
+
+EX: LIÇENÇA / ADMISSÃO / HOMOLOGAÇÃO / VISTO ... CADÊ O ''R'' ????
+
+ 
+
+Direito Privado
+
+Empresa Pública - Correios
+
+Sociedade de Economia Mista - Banco do Brasil
+
+Serviços Sociais Autônomos - SENAI, SESC, ETC.
+
+ 
+
+Direito Público
+
+Autarquias - INSS, BACEN. 
+
+Agências Reguladoras - Anatel, Anvisa.
+
+Agências Executivas (contrato de gestão) - INMETRO
+
+
+Fundações de Direito Público ou Privado
+
+Fundações Públicas de Direito Público - FUNAI, IBGE; 
+
+Fundações Públicas de Direito Privado - FGV
+
+
+
+
+
+
+
+
+
+
+TOP 5 Piores:
+
+Crime contra a Administração pública >> não pode voltar ao serviço público federal
+
+Improbidade administrativa >>  indisponibilidade dos bens e o ressarcimento ao erário +  não pode voltar ao serviço público federal
+
+Aplicação irregular de dinheiros públicos >>  indisponibilidade dos bens e o ressarcimento ao erário +  não pode voltar ao serviço público federal
+
+Corrupção >>  indisponibilidade dos bens e o ressarcimento ao erário +  não pode voltar ao serviço público federal
+
+Lesão aos cofres públicos e dilapidação do patrimônio nacional >>  indisponibilidade dos bens e o ressarcimento ao erário +  não pode voltar ao serviço público federal
+
+
+
+
+RESUMO SOBRE COMISSÕES PARLAMENTARES DE INQUÉRITO
+
+ 
+
+São criadas pela CD e pelo SF, em conjunto ou separadamente, para a apuração de fato determinado e por prazo certo (podem ser prorrogadas se não ultrapassarem a legislatura). Suas conclusões, se for o caso, devem ser encaminhadas 
+ao MP, para que promova a responsabilidade civil ou criminal dos infratores. São criadas mediante requerimento de um terço de seus membros. A garantia da instalação da CPI independe de deliberação plenária e não pode ser embaraçada
+ pela falta de indicação de membros pelos líderes partidários.
+
+ 
+
+(1) A CPI pode:
+
+                         
+
+   (a) Convocar Ministro de Estado ou quaisquer titulares de órgãos diretamente subordinados à Presidência da República para prestarem, pessoalmente, informações sobre assunto previamente determinado, importando crime de responsabilidade 
+a ausência sem justificação adequada;
+
+   (b) Solicitar depoimento de qualquer autoridade ou cidadão;
+
+   (c) Determinar a condução coercitiva de testemunha, no caso de recusa ao comparecimento;
+
+   (d) Determinar as diligências, as perícias e os exames que entenderem necessários, bem como requisitar informações e buscar todos os meios de prova legalmente admitidos;
+
+   (e) Determinar a quebra dos sigilos fiscal, bancário e telefônico do investigado.
+
+ 
+
+(2) A CPI não pode:
+
+ 
+
+   (a) Determinar qualquer espécie de prisão, ressalvada a prisão em flagrante;
+
+   (b) Determinar medidas cautelares de ordem penal ou civil;
+
+   (c) Determinar de indisponibilidade de bens do investigado;
+
+   (d) Determinar a busca e apreensão domiciliar de documentos;
+
+   (e) Determinar a anulação de atos do Executivo;
+
+   (f) Determinar a quebra de sigilo judicial;
+
+   (g) Autorizar a interceptação das comunicações telefônicas (embora possa quebrar o sigilo telefônico);
+
+   (h) Indiciar as pessoas investigadas.
+
+
+
+
+
+
+Os Objetivos Fundamentais são iniciados por verbos: construir, garantir, erradicar e promover.
+
+
+.
+
+Mais uma para a listinha de palavras pouco conhecidas que o CESPE usa em seus enunciados:
+
+Óbice = empecilho
+Defeso = proibido
+Salutar = benéfico
+Precipuamente = Aquilo que é principal, que destaca-se;
+Injunção = Imposição, pressão das circunstâncias.
+Aquiescência = concordância
+Conspícuo = notável
+prescinde = dispensar
+Silente = silencioso
+
+
+
+Somente o ressarcimento ao erário que não prescreve.
+
+
+
+
+
+A ITIL é baseada na necessidade de fornecer serviços de alta qualidade, com ênfase no serviço e
+seu ciclo de vida.
+
+
+O CobiT é -o único- framework gerencial que trata todo o ciclo de vida de TI. O modelo apoia a TI para a organização atingir os objetivos de negócio, garantir o alinhamento 
+estratégico e melhorar a eficiência e eficácia de TI.
+
+
+
+O CobiT permite às organizações reduzir os riscos de TI, aumentar o valor obtido da TI e atender às regulamentações de controle.
+
+
+O cobit diz o que fazer e nao como fazer.
+
+
+"Os níveis de maturidade descrevem perfis de processos de TI que possam ser
+reconhecidos pelas organizações, MAS NÃO estabelecem patamares evolutivos,
+onde não se possa alcançar um nível superior sem antes passar pelos níveis
+inferiores."
+
+
+Logo de cara o erro: não é de 1 a 5 o nível de maturidade e sim de 0 a 5 na versão 4.1 do Cobit.
+
+
+ "O modelo de maturidade para o gerenciamento e controle dos processos de TI é baseado num método de avaliar a organização,	
+permitindo que ela seja pontuada de um nível de maturidade não-existente (0) a otimizado (5)."
+
+
+
+
+As principais mudanças em relação à V2 são:
+• Abordagem baseada no ciclo de vida dos serviços;
+• Visão integrada de TI, negócios e fornecedores (gestão de outsourcing);
+
+
+A versão 3 do ITIL é composta pelos livros: Service Strategy (Estratégia do Serviço); Service Design (Desenho do Serviço); Service Transition (Transição do Serviço); Service Operation (Operação do Serviço) e Continual Service Improvement (Melhoria do Serviço Continuada)
+
+
+
+Segundo a IN 4/2014,"Art. 9º A fase de Planejamento da Contratação consiste nas seguintes etapas:
+I - Instituição da Equipe de Planejamento da Contratação;
+II - Estudo Técnico Preliminar da Contratação;
+III - Análise de Riscos; e
+IV - Termo de Referência ou Projeto Básico."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

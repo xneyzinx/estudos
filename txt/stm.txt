@@ -1,0 +1,165 @@
+Builder: separa a construção de um objeto complexo da sua representação, de forma que o mesmo processo de construção possa criar diferentes tipos de representações.
+Pessoal, esse padrão de projeto deve ser utilizado quando o algoritmo para criação de um objeto complexo for independente das partes que compõem o objeto e independente de como ele é montado. Ademais, o processo de construção deve permitir diferentes representações para o objeto que será construído. Esse padrão é bastante parecido com o Abstract Factory.
+
+
+
+
+1 - Consultor de negócios = mapeia processos de negócio da organização
+
+2 - Arquiteto SOA = quem modela, constrói, instala e dá manutenção ao SOA
+
+3 - Provedor = quem disponibiliza serviço
+
+4 - Consumidor = quem invoca serviço
+
+
+
+
+Principais descrições do WEB SERVICE:
+    <types>: Tipos de dados suportados pelo serviço
+    <message>: Informações necessárias para executar a operação
+    <portType>: Operações e mensagens trocadas para executar a operação
+    <binding>: Protocolos de comunicação utilizados (RC/HTTP)
+    <operation>: Especificação das assinaturas dos métodos utilizados
+    <definitions>: Descrições sobre schemas e namespaces
+
+
+O objetivo do struts é separar o model do view e do controller
+
+
+
+
+
+
+
+
+Blind Guardian - Time stands still
+Demons and Wizards - Fiddler on the Green
+Blind Guardian - Fly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chuva derrete a tatuagem
+População se revolta
+Fogem para o sul, fora dos limites de Rune Midgard
+
+
+Após 24 horas da fuga, 6 horas depois que despistaram os habitantes, chegam num antigo ponto de descanso/preparação antes de partir para o 
+deserto.
+Uma casa que ainda possui alguns itens, madeira para lareira, depósitos, etc. Um mapa do sul de rune midgard / python. Um pequeno lago que
+nasce do chão. Poucas árvores. Um mapa do sul de Rune Midgard / Python.
+
+Enquanto eles descansam, o chefe e professor do guerreiro encontra eles, ele é apelãozin.
+Fala todos os erros/crimes que o aprendiz cometeu. Petrifica, usa barreira de gelo, dá um socão faz tudo pra mostrar como ele é foda.
+Solta ele por motivos de (???). Ordena que saiam imediatamente, pq as tropas chegariam em 2 horas.
+Se um deles usar algum teste de observação, vão perceber que alguem esteve ali há pouco tempo. Pouca poeira numa maçaneta, por exemplo,
+indicando que alguem usou recentemente.
+Ele trouxe roupas apropriadas e algumas coisas pra ajudarem eles a cruzar o deserto. Algumas moedas.
+
+"Não temos juriscrição para atuar em Python. Mas vc pode fazer alguma coisa. Os assassinatos não vão parar.
+
+
+
+Finalmente eles encaram o deserto, em direção a Python. Cerca de 3 dias são necessários para cruzar o deserto.
+Chegando em Python, o mercado chama atenção.
+
+"Uma cidade enorme. É tão grande que chega a ser maior até mesmo do que Glast Heim, a capital de Rune Midgard"
+
+É o seguinte, vcs não falam o idioma deles kkkkk
+
+Um vendedor falando em várias línguas diferentes, vários livros empilhados.
+"Livros de Rune Midgard, A história de Glast Heim, A origem e o poder dos Raydric, O conto perdido de Lana, tudo isso e muito mais!!"
+
+
+
+
+
+"Em meio às festividades, num local onde ninguém via, uma torre ergueu-se num lugar ermo. Ninguém sentiu o terremoto, ninguém viu os 
+animais entrarem em pânico. O causador disso esfregava suas mãos desproporcionais e sorria."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

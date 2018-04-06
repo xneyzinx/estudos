@@ -1,0 +1,122 @@
+fat12 - disquetes. Partição de 16mb, cluster de 512bytes, 1k, 2k e 4k. Não diferencia maiuscula de minuscula
+fat16 - SO de 16 bits ou de 32 bits. Usa clusters, o que aumenta o desperdício de espaço. Disco de até 2GB (cluster de 32kb)
+fat32 - apenas 32 bits, arquivos de até 4gb, 
+
+fat32 suporta nomes de ficheiros longos (até 256 char), reduziu o desperdício (clusters menores, de 4kb)
+fat32 Utiliza uma cópia backup da tabela de alocação como sistema de segurança para corrompimentos. E geralmente só vai até 32GB
+fat16 - 8 char + extensão
+
+Nos sistemas FAT antigos, havia uma limitação no número de entradas que podiam ser alocadas no diretório principal
+(512 arquivos e/ou pastas). Não há essa limitação no FAT32.
+
+FAT tem problema de segurança, por isso windows NT usam NTFS
+.
+
+
+NTFS - volume de até 2TB, arquivo de até 2TB
+nome de volume de até 32 char
+compactação, criptografia e indexação
+clusters de 512 butes
+mais seguro que o fat
+menos suscetíveis a fragmentação
+melhor desempenho e recupeeração de erro.
+nome de arquivo de até 255 caracteres
+até 2^32 - 1 arquivos
+conteúdo de diretório: árvore B+
+alocação de arquivos: bitmap
+se usado em mídia removível, pode corromper mais facilmente
+Faixa de datas	1 de Janeiro de 1601 – 28 de Maio de 60056
+intervalo de 100ns (10kk por segundo)
+criptografia DES-X, 3DES ou AES
+mais lento que o fat
+blocos ruins - MFT record
+
+
+
+
+ext2
+conteúdo de diretório - Tabela
+alocação de arquivos - mapa de bits (espaço livre), tabela (metadados)
+blocos ruins - tabela
+16gb~2tb arquivo
+10^18 max de arquivos
+255 caracteres
+2tb~32tb volume (na verdade é 8TB)
+permite tudo menos NULL ('\0') e '/'
+1s resolução de datas
+1901 até 2038
+
+
+superbloco é a estrutura básica do Ext2. Ocupa 1024 bytes e inicia no terceiro setor do volume
+
+
+ext3
+2tb arquivo, 32tb volume (depende do tamanho do bloco)
+journaling
+conteúdo de diretório - Tabela, hashed B-tree com dir_index ativado
+Alocação de arquivos	Mapa de bytes (espaço livre), tabela (metadados)
+Blocos ruins	Tabela
+número maximo de arquivos variável
+
+Há três níveis de journaling disponíveis na implementação do Ext3:
+
+	Journal: os metadados e os dados (conteúdo) dos arquivos são escritos no journal antes de serem de fato escritos no sistema de 
+arquivos principal. Isso aumenta a confiabilidade do sistema, porém com uma perda de desempenho, devido à necessidade dos dados 
+serem escritos duas vezes no disco.
+	Writeback: os metadados são escritos no journal mas não o conteúdo dos arquivos. Essa opção permite um melhor desempenho em relação
+ ao modo journal, porém introduz o risco de escrita fora de ordem onde, por exemplo, arquivos que são apensados durante um crash 
+podem ter adicionados a eles trechos de lixo na próxima montagem.
+	Ordered: é como o writeback, mas força que a escrita do conteúdo dos arquivos seja feita após a marcação de seus metadados como 
+escritos no journal. Esse é considerado um meio-termo aceitável entre confiabilidade e performance, sendo, portanto, o nível padrão.
+
+permite atualização direta a partir de um sistema com ext2
+
+Visa compatibilidade com ext2.  Por causa disso, o ext3 não possui muitas das funções mais recentes como alocação dinâmica de inodes e 
+tamanhos de blocos variáveis (fragmentos ou caudas).
+
+
+
+
+
+
+
+
+
+Hypervisor tipo 1 - roda sobre o núcleo. É o SO
+Tipo 2 - roda sobre o SO, ex: JVM
+
+
+
+página e moldura de página tem sempre o mesmo tamanho
+
+ O VID - Virtual Insfrastructure Driver é responsável pelo gerenciamento da partição, memoria e processador entregue a maquina
+virtual.
+
+
+VMware ESX executa diretamente sobre o hardware hospedeiros
+workstation, etc executa sobre o SO hospedeiro
+
+paravirtualização - requer a modificação do SO convidado (paravirtualização vs virtualização total)
+
+
+
+Alguns dos hipervisores tipo 1 mais conhecidos são:
+
+VMware: ESXi (grátis), VMware ESX (Software comercial)
+
+Xen (livre)
+
+Citrix XenServer (grátis)
+
+Microsoft Hyper-V Server (grátis)
+
+
+vMotion - migrar em tempo real
+
+
+
+dar uma olhada em: dockers e kubernetes
+
+Principais Funcionalidades do Docker
+Contêineres facilmente portáveis: Você pode criar uma imagem de toda a configuração e aplicativos instalados em seu contêiner, 
+transferir e instalar em um outro host desde que tenha um Docker previamente instalado.

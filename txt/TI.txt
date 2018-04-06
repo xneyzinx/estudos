@@ -1,0 +1,136 @@
+Durante o processo de instalação do Active Directory, são criados cinco arquivos:
+
+1-Ntds.dit - Arquivo de banco de dados do AD
+
+2-Edb.log - Arquivo onde são armazenados todas as transações feitas no AD.
+
+3-Edb.chk - Arquivo de checkpoint controla transações no arquivo Edb.log já foram comitadas no arquivo Ntds.dit.
+
+4-Res1.log - Arquivo de reserva assegura que alterações sejam gravadas na base(Ntds.dit) no caso de falta de espaço em disco.
+
+5-Res2.log - Arquivo de reserva assegura que alterações sejam gravadas na base(Ntds.dit) no caso de falta de espaço em disco.o Edb.log já foram commited em Ntds.dit; 4) Res1.log, arquivo de reserva; 5) Res2.log, arquivo de reserva. 
+
+
+
+
+
+
+
+
+A estrutura física do AD é totalmente independente da estrutura lógica do AD. A estrutura física é responsável por timizar o tráfego de rede e manter segurança em locais físicos distintos.
+
+Segue abaixo uma lista de parâmetros:
+
+/E – Edita as permissões
+
+/G – Concede direitos ao usuário especificado
+
+/P – Substitui os  direitos ao usuário especificado
+
+/R – Revoga os direitos do usuário especificado
+
+/D – Nega Acesso ao usuário especificado
+
+
+https://uploaddeimagens.com.br/imagens/active_directory_-png
+
+
+
+
+
+
+
+
+***Estrutura Lógica: Objetos, Unidades Organizacionais, Domínio, Árvores de Domínio e Floresta.
+
+***Estrutura Física: DC, Site e Esquema.
+
+
+
+AD DS – Função Serviços de Domínio do Active Directory
+
+AD RMS – Função Active Directory Rights Management Services
+
+AD LDS – Função Serviços Active Directory Lightweight Directory Services
+
+AD FS – Função Serviços de Federação do Active Directory
+
+AD CS – Função Serviços de Certificado do Active Directory
+ 
+
+
+Por questoes de seguranca a Microsoft restringe o uso do AD DS ao sistema de arquivos NTFS.
+
+
+
+
+
+
+
+
+
+
+
+
+VOIP
+
+**H.323 - suporta várias tecnologias de enlace e codifica as mensagens em formato compacto binário.
+
+**SIP - atua na camada de aplicação TCP/IP e codifica as mensagens em formato texto ASCII.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

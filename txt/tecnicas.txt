@@ -1,0 +1,190 @@
+get_dummies: qnd tenho um campo de string que é tipo A|B|C...
+full_monte['info'].str.get_dummies('|')
+
+ele separa
+
+
+____________________________________________________________________
+
+
+unstack
+
+
+data.shape #conta linhas e colunas
+pd.set_option('display.max_columns', None) # To display all columns
+data.describE(include='all')
+
+
+
+# only selecting specific columns
+df = df.ix[:, [1,2,3,4,6,7,8,10,11,12,13,14]]
+
+
+
+***CONTA TODOS OS VALORES DE UMA COLUNA***
+
+df['a'].value_counts()
+
+
+
+
+***CONTAR TODOS OS VALORES DE CADA COLUNA***
+
+df.apply(pd.value_counts)
+
+
+
+
+***CONTAR VALORES DE UMA COLUNA DE ACORDO COM UMA CONDIÇÃO***
+
+df.reset_index()
+
+count_pos=0
+count_zero=0
+count_neg=0
+
+for i in range(1, len(df)):
+    if df.loc[i, 'COLUMN'] > 0:
+        count_pos+=1
+    elif df.loc[i, 'COLUMN'] == 0:
+        count_zero+=1;
+    else: 
+        count_neg+=1;
+        
+print(count_pos, count_zero, count_neg)
+
+
+
+***COPIAR COM CONDIÇÃO***
+currency = df[df['name'] == 'Litecoin'].copy()
+currency.head()
+
+d2 = data.loc[data['name'] == 'Bitcoin']
+d2.head()
+
+
+
+
+
+
+***FALAR O MAXIMO***
+
+df.loc[df['dif'].idxmax()]   ---> o maximo da coluna 'dif'
+
+
+
+
+PIVOT TABLE
+pivot = pd.pivot_table(df, index = 'year_patron_registered', columns = 'age_range', values = 'total_renewals')
+
+
+
+
+
+axis=0   ao longo das linhas (média de cada coluna?)
+axis=1   ao longo das colunas (média de cada linha?)
+
+ex:
+def classify_non_users(row):
+    if (row.total_checkouts==0) and (row.active_year=="None"):
+        return "non-user"
+    if (row.total_checkouts>0) and (row.active_year=="None"):
+        return "false entry"
+    else:
+        return "active-user"
+    
+df["user_type"] = df.apply(classify_non_users, axis=1)
+
+
+
+
+
+
+
+
+
+
+***GRAFICO DE LINHA MUITO BOM***
+
+from plotly import tools
+import plotly.offline as py
+py.init_notebook_mode(connected=True)
+import plotly.graph_objs as go
+
+fig = tools.make_subplots(rows=1, cols=2, subplot_titles=(
+    'Crypto Currency Price', 'Transaction Volume'
+))
+
+trace0 = go.Scatter(x=df['date'], y=df['close'], name='Bitcoin')
+fig.append_trace(trace0, 1, 1)
+
+trace1 = go.Scatter(x=df['date'], y=df['volume'], name='Bitcoin')
+fig.append_trace(trace1, 1, 2)
+
+
+
+
+
+plt.figure(figsize=(12,8))
+
+data = pd.crosstab(df[df.user_type=="active-user"].year_patron_registered, 
+                   df[df.user_type=="active-user"].active_year) \
+         .drop(2003).drop(2003, axis=1)
+
+sns.heatmap(data)
+
+plt.xlabel("Year: last time active")
+plt.ylabel("Year: registered")
+plt.title("Customer Loyalty of Active-Users", fontweight="bold")
+
+
+
+
+
+
+
+
+
+
+***QUANDO TEM MUITAS CATEGORIAS QUE N DÁ PRA LER DIREITO NO GRÁFICO***
+
+fig, ax = plt.subplots(1,1, figsize=(12, 7))
+
+biggest_patrons = df.patron_type.value_counts().head(5).index  #I'm only going to depict the biggest categories and there seem to be 5 of them.
+data = df[df.patron_type.isin(biggest_patrons)].groupby(["patron_type", "user_type"]).size()
+
+mosaic(data, label_rotation=[90, 0], labelizer= lambda k: data[k], ax=ax)
+plt.title("Patron Types")
+
+
+
+
+
+
+***PIVOT TABLE PORCENTAGENS ORDENANDO***
+branches = pd.crosstab(df.home_library, df.user_type)
+branches_percentages = branches.div(branches.sum(1), axis=0)
+
+# branches sorted by percentage of non-users from high to low
+order = list(branches_percentages.sort_values(by="non-user", ascending=False).index)
+data = branches.stack()[order]
+
+fig, ax = plt.subplots(1,1, figsize=(18, 7))
+
+mosaic(data, labelizer=lambda k: int((branches_percentages.stack()[k])*100), label_rotation=[90,0], ax=ax)
+plt.title("Library Branches")
+
+
+
+
+Normalizar os dados: muda a forma, tenta colocar na forma normal. Forma normal é boa/necessária pra t-tests, ANOVAs, linear regression
+, linear discriminant analysis (LDA), e Gaussian naive Bayes
+
+
+Regressão linear: prever um valor contínuo
+Poisson regression: prever um inteiro, um "count_value"
+Logistic regression: prever um categorical value, often with two categories
+
+
+
+In general, you'll only want to normalize your data if you're going to be using a machine learning or statistics technique that assumes your data is normally distributed. Some examples of these include t-tests, ANOVAs, linear regression, linear discriminant analysis (LDA) and Gaussian naive Bayes. (Pro tip: any method with "Gaussian" in the name probably assumes normality.)
