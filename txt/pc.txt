@@ -120,3 +120,39 @@ dar uma olhada em: dockers e kubernetes
 Principais Funcionalidades do Docker
 Contêineres facilmente portáveis: Você pode criar uma imagem de toda a configuração e aplicativos instalados em seu contêiner, 
 transferir e instalar em um outro host desde que tenha um Docker previamente instalado.
+
+
+
+
+
+
+
+
+
+
+
+
+nível externo - abrange parte do banco de dados para um grupo de usuarios (várias visões)
+
+nível conceitual - escreve a estrutura de TODO o banco de dados para a comunidade / conjunto de usuários, ocultando detalhes de estrutura física (visão única)
+
+nível físico - Representação física dos campos e a sequência em que os registros estão armazenados
+
+
+
+Nível interno ou esquema interno - usa um modelo de dados que mostra a estrutura de armazenamento físico do banco de dados, os detalhes dos dados guardados e os caminhos de acesso.
+Nível conceitual ou esquema conceitual - efetua uma descrição total da estrutura do banco de dados mas não ofere detalhes dos dados guardados no banco de dados.
+Nível externo ou esquema de visão - descreve as visões do banco de dados para um grupo de usuários que mostra quais usuários terão acesso à esse banco.
+
+
+
+Independência Lógica de Dados: Capacidade de alterar o esquema conceitual sem ter que mudar os esquemas externos ou programas de aplicação. 
+Independência Física de Dados: Capacidade de alterar o esquema interno sem ter que alterar os esquemas conceitual e externo.
+
+
+
+
+
+
+
+
