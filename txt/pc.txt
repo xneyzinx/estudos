@@ -124,9 +124,118 @@ transferir e instalar em um outro host desde que tenha um Docker previamente ins
 
 
 
+ECB: nao esconde os padrões
+CBC: faz o XOR do bloco com o bloco cifrado anterior, e entao cifra (no primeiro tem um vetor de inicialização). É de bloco
+CFB: o bloco cifrado anterior é codificado e aí faz o XOR com o próximo. É de fluxo
+OFB: é de fluxo tbm, pode ser computado anteriormente, é semelhante ao CFB mas pode ser utilizado em aplicações em que a propagação de erros não pode ser tolerada (bom em comunicação via satélite)
+CTR: contador, útil para requisitos de alta velocidade
 
 
 
+ECB: separa em blocos, cifra cada bloco e concatena.
+Com ECB não se pode ocultar padrões de dados
+O modo ECB produz protocolos de criptografia sem garantia de integridade e bastante suscetíveis a ataques de repetição, pois cada bloco é “descriptado” exatamente da mesma forma.
+
+
+CBC: cada bloco de texto simples é submetido a uma operação XOR com o bloco de texto cifrafo anterior, antes de ser criptografado por algum algoritmo.
+Consequentemente, o mesmo bloco de texto simples não é mais mapeado para o mesmo bloco de texto cifrado.
+Assim ,a criptografia não é mais uma grande cifra de substituição monoalfabética.
+O primeiro bloco é submetido ao XOR comm um vetor de inicialização
+
+Diferente do CBC, no ECB, a criptografia de um bloco i é uma função somente do texto simples i.
+No CBC, a criptografia de um bloco i é uma função de todo texto simples contido nos blocos 0 a i-1
+E assim, o mesmo tempo simples gera um texto cifrado diferente, dependendo de onde ele ocorre.
+
+Desvantagem: O encadeamento de blocos de cifras tem a desvantagem de que o processo de criptografia é sequencial e assim não pode ser paralelizado.
+A mensagem deve ser alinhada de acordo com um múltiplo do tamanho do bloco de cifra (64 bits ou 128 bits).
+
+O CBC é útil quando se pretende cifrar grandes quantidades de dados, como arquivos, apresentando uma segurança bastante superior à do modo ECB.
+
+
+CFB: pra pequenas quantidades (bytes ou blocos pequenos)
+tem vetor de inicialização tbm, que funciona como um shift register
+
+Deste modo, os efeitos de um único bit invertido são relativamente localizados e não arruinam o restante da mensagem.
+Mas, arruinam uma quantidade de bits igual ao comprimento do registrador R de deslocamento.
+
+
+OFB: O modo OFB é análogo ao CFB, mas que pode ser utilizado em aplicações em que a propagação de erros não pode ser tolerada.
+pode ser computada com antecedência
+
+As Cifras de fluxo são um tipo de Algoritmos de chave simétrica. Neste tipo de cifras, os bits originais são combinados com bits de cifragem vindos de um gerador de dígitos pseudo-aleatório. Normalmente esta combinação é feita através de uma operação de disjunção exclusiva ou XOR.
+
+
+
+
+
+AES: blocos de 128 bits, chaves de 128/192/256 (16/24/32 bytes)      [10/12/14 ciclos]
+É UMA cifra cíclica
+
+
+RC4: cifra de fluxo, é de rápida encriptação, usado no SSL e WEP
+
+    Tamanho do bloco de dados    Tamanho da chave
+
+DES                64bits                        56bits (8 paridade + 48 chave)
+
+3DES               64bits                       (112bits ? 3DES duplo;168bits ? 3DES triplo)
+
+AES                 128bits                     128bits,192bits,256bits
+
+IDEA                 64bits                       128bits
+
+BLOWFISH       64bits                      32-448bits
+
+CAST-128          64bits                      128bits
+
+RC-4,5,6             X                             X
+
+
+RSA --> Sua robustez reside na dificuldade de se fatorar o produto de dois números primos muito grandes. 
+El Gamal --> O El Gamal possui como segurança de seu sistema a dificuldade do cálculo de logaritmos discretos em um corpo finito.
+Diffie-Hellman --> Na sua versão mais atual, o DH pode ser utilizado conjuntamente com algoritmos de curva elíptica criando um processo chamado Perfect Forward Secrecy (PFS), A sua estrutura e robustez e segurança reside na complexidade e problema do logaritmo discreto.
+
+
+EAP evita ataques man-in-the-middle
+
+
+Criptoanálise linear observa a evolução de um único bloco de texto.
+Criptoanálise diferencial observa o comportamento de pares de blocos de texto em evolução a cada rodada da cifra.
+
+
+Assinatura digital: o cara usa a chave PRIVADA pra cifrar o hash, provê autenticidade, é uma assinatura afinal
+
+
+
+Números de Chaves
+- Simetrico e Assimetrico.
+
+Método de Operação
+- Substituiçao e Transposição.
+
+Modo de Processamento
+- Cifra de Bloco e Cifras de Fluxo.
+
+
+
+O serviço SAMBA implementa o protocolo SMB/CIFS no GNU LINUX.
+é um serviço pra pra "simular" windows no linux
+137 e 138 (UDP) 139 e 445 (TCP) -> portas usadas
+
+O programa Samba é um programa que permite o compartilhamento de arquivos e impressoras entre computadores que executam o Microsoft Windows e computadores que executam o Unix
+
+
+
+
+Handshake TLS:
+
+Fase 1 (client_HELLO e server_HELLO): Estabelece capacidade de segurança, incluindo versão de protocolo, ID de sessão, cifras, método de compactação e números aleatórios.
+
+Fase 2: Servidor envia/recebe certificado, troca de chave; Servidor sinaliza final de fase HELLO.
+
+Fase 3: Cliente envia certificado, se solicitado, troca de chave e verificação de certificado.
+
+Fase 4: Troca de conjunto de cifras e término de handshake.
 
 
 
@@ -153,6 +262,392 @@ Independência Física de Dados: Capacidade de alterar o esquema interno sem ter q
 
 
 
+ITIL NÃO: Padrão, Metodologia ou Norma
 
 
 
+Service Design (Desenho/Projeto de Serviço): Fornece orientações sobre a concepção e desenvolvimento de serviços de acordo com as exigências do cliente e da abordagem estratégica. O desenho de serviço inclui o desenho de serviços, as práticas que o regem, processos e políticas requeridas para realizar a estratégia do provedor de serviço e facilitar a introdução de serviços nos ambientes suportados.
+
+O desenho de serviço inclui os seguintes processos: 
+
+  Coordenação de desenho
+
+  Gerenciamento de catálogo de serviço
+
+  Gerenciamento de nível de serviço
+
+  Gerenciamento de disponibilidade
+
+  Gerenciamento de capacidade
+
+  Gerenciamento de continuidade de serviço de TI
+
+  Gerenciamento de segurança de informação
+
+  Gerenciamento de fornecedor.
+
+
+
+Portfólio = Todos os serviços
+
+ - Funil (Pipeline) = Serviços em desenvolvimento
+
+ - Catálogo = Cliente vê
+
+- Aposentados = Serviços fora de operação (podem ser reativados a qualquer tempo)
+
+
+
+
+Na fase de Iniciação são feitas atividade de "levantamento dos requisitos necessários para cumprir o acordo de nivel de serviço.
+
+Na fase de Operação, o serviço é colocado "pra funcionar", isto é, depois das atividades de iniciação e implementação o serviço poderá ser entregue para uso ao cliente.
+
+Na fase de Implementação ocorre todo o processo de desenvolvimento do serviço, inclusive os testes necessários.
+
+A fase de Requerimento e estratégia diz respeito às atividades que precedem a fase de iniciação.
+
+
+
+
+
+ESTRATÉGIA
+
+Estratégia, Financeira, Demanda, Portfólio
+
+ 
+
+DESENHO/PROJETO
+
+Catálogo, Nível, Segurança da Informação, Fornecedor, Capacidade, Continuidade, Disponibilidade
+
+ 
+
+TRANSIÇÃO
+
+Mudança, Conhecimento, Suporte da Transição, Configuração e de Ativo, Liberação e Implantação, Validação e Testes, Avaliação
+
+ 
+
+OPERAÇÃO
+
+Eventos, Problemas, Incidentes, Requisição, Acesso
+
+ 
+
+MELHORIA CONTÍNUA
+
+Melhoria em 7 passos, Mensuração, Relatório
+
+
+
+
+
+
+
+COBIT
+
+Partes interessadas são umas das 4 dimensões dos habilitadores (partes interessadas, objetivos, ciclo de vida e boas práticas) no COBIT 5, não habilitadores.
+
+
+
+PERMITIR UMA ABORDAGEM HOLISTICA: É SÓ SOBRE OS HABILITADORES
+COBRIR DE PONTA A PONTA: Cobertura da governança vai além da TI, considerar todos os processos que a informação está envolvida (INTERNOS E EXTERNOS)
+
+
+
+
+Objetivos de TI de acordo com o BSC
+
+
+
+a) Perspectiva financeira:
+
+1 - Alinhamento da estratégia de negócios e de TI;
+
+2 - Conformidade de TI e suporte para conformidade do negócio com as leis e regulamentos externos;
+
+3 - Compromisso da gerência executiva com a tomada de decisões de TI;
+
+4 - Gestão de risco organizacional de TI;
+
+5 - Benefícios obtidos pelo investimento de TI e portfólio de serviços;
+
+6 - Transparência dos custos, benefícios e riscos de TI;
+
+
+
+b) Perspectiva do cliente:
+
+7 - Prestação de serviços de TI em consonância com os requisitos de negócio;
+
+8 - Uso adequado de aplicativos, informações e soluções tecnológicas;
+
+
+
+c) Perspectiva interna:
+
+9 - Agilidade de TI;
+
+10 - Segurança da informação, infraestrutura de processamento e aplicativos;
+
+11 - Otimização de ativos, recursos e capacidades de TI;
+
+12 - Capacitação e apoio aos processos de negócios através da integração de aplicativos e tecnologia;
+
+13 - Entrega de programas fornecendo benefícios, dentro do prazo, orçamento e atendendo requisitos;
+
+14 - Disponibilidade de informações úteis e confiáveis para a tomada de decisão;
+
+15 - Conformidade de TI com as políticas internas;
+
+
+
+d) Perspectiva de aprendizagem:
+
+16 - Equipes de TI e de negócios motivadas e qualificadas;
+
+17 - Conhecimento, expertise e iniciativas para inovação dos negócios.
+
+
+
+
+
+
+
+PMBOK AREAS DE CONHECIMENTO
+ 
+
+EITA, RH RI do CU COM QUALIDADE STAKEHOLDERS
+
+
+Escopo
+Integração
+Tempo
+Aquisições
+RH
+RIscos
+CUstos
+COMunicação
+QUALIDADE
+STAKEHOLDERS
+
+
+Observe no guia como as informações de entrada, saída e ferramentas e técnicas se repetem em vários processos e tente assimilar a essência de cada um.
+
+ex.:
+
+Ativos de processos organizacionais, fatores ambientais da empresa documentos e planos são, geralmente, entradas de um processo.
+
+Atualizações destes planos, documentos, ativos e fatores serão saídas.
+
+Ferramenta já é algo tangível como um sistema, uma opinião, um banco de dados, relatório e por ai vai...
+
+
+
+
+Dentre algumas das características da EAP, podemos citar que:
+
+• É orientada a entregas.
+
+• Serve para deixar claro, de forma visual, tudo que será entregue pelo projeto e como isto esta organizado;
+
+• Também é útil para delegar responsáveis por cada entrega. 
+
+A principal técnica utilizada para criar a EAP é decomposição. Por meio desta técnica o projeto será decomposto em produtos e, entregas e pacotes de trabalho que sejam mais fáceis de serem gerenciados
+
+
+
+ativos e fatores é entrada pra quase tudo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+O texto resposta se adequa perfeitamente ao tema proposto de "indicar como o Conselho Federal de Medicina pode auxiliar no desenvolvimento de ações de saúde além do hospital".
+
+No primeiro paráfrafo o texto introduz o tema e recomenda que o CFM atue como "divulgador, organizador ou mesmo executor de ações que visem a melhoria da saúde no Brasil." (linhas 9-10).
+
+Nos parágrafos seguintes, sugiro e descrevo formas de como melhorar a saúde além do hospital: Com divulgação de informações (2º parágrafo), execução de cursos (3º parágrafo) e organização junto a outros órgãos (4º parágrafo).
+
+Além disso os períodos e parágrafos do texto estão bem organizados e periodizados.
+
+Tendo em vista os argumentos apresentados, solicito majoração da nota neste item.
+
+
+
+O meu texto apresenta argumentos de como o CFM poderá atuar no desenvolvimento de ações de saúde além do hospital, apresentando exemplos de ações e possíveis formas de como executar as ações para alcançar maior efetividade.
+
+É o caso do segundo parágrafo (linhas 11-17), onde o meu texto sugere que o CFM atue como divulgador de informações, recomendando que se utilize mais de um meio de comunicação. Em seguida, justifico essa recomendação com o argumento de que a medida deve alcançar a maior quantidade de pessoas possível, citando como exemplo que como nem toda a população da terceira idade utiliza a internet, uma campanha feita apenas na internet não os alcançaria.
+
+No terceiro parágrafo (linhas 18-23) sugiro que o CFM atue também ministrando cursos, citando como exemplo um curso de primeiros socorros a ser ministrado em escolas, empresas e outras instituições. Utiliza como argumento o diferencial que os primeiros socorros fazem no atendimento de uma pessoa.
+
+Por fim no último paráfrafo (linhas 24-29), sugiro no texto que o CFM não foque apenas na medicina, mas que também se aproxime de profissionais de outras áreas do conhecimento, para que a saúde deve seja promovida em todas as esferas da sociedade.
+
+Tendo em vista os argumentos apresentados, solicito à banca que revise a pontuação atribuída para este item.
+
+
+
+O texto utiliza bem os elementos de coesão nos parágrafos. Por exemplo, entre as linhas 5 e 10 cito uma série de tópicos e em seguida escrevo que esse é um contexto onde o CFM poderia atuar.
+
+Também a título de exemplo, o segundo parágrafo utiliza a palavra "campanha" para se referir às ações que de "utilização dos meios de comunicação para divulgar informações" que o CFM promoveria.
+
+Além disso, as ligações entre os períodos foram bem utilizadas em todo o texto, e os parágrafos também estão bem conectados uns com os outros.
+
+Quanto à coerência, o texto faz as implicações e conclusões adequadas dos argumentos utilizados, por exemplo citando no segundo parágrafo que as campanhas de prevenção de doenças devem ser feitas utilizando mais de um meio de comunicação, visto que determinados meios não são utilizados por parte da população.
+
+Já no terceiro parágrafo justifico a sugestão de ministrar cursos de primeiros socorros com o importante diferencial que um atendimento imediato proporciona.
+Ainda no terceiro parágrafo, cito a importância de cursos como esse para as gestantes e seus companheiros, utilizando como argumento as frequentes mortes súbitas que ocorrem em bebês.
+
+
+
+Tendo em vista os argumentos apresentados, solicito revisão na correção deste item pela banca.
+
+
+
+O texto resposta atende ao requisito do edital de "elaborar proposta de intervenção relacionada ao tema abordado", utilizando argumentos pertinentes e citando exemplos que corroboram e justificam as sugestões dadas.
+
+
+
+
+
+
+
+
+
+COBIT 5
+
+
+Um mnemônico para ajudar.
+
+"Pro mudo melhorou"
+
+PROgrama
+
+MUdança
+
+MELHORia Contínua
+
+
+Esses são os 3 aneis, externo, intermediário e interno
+
+Gestão do Programa, Capacitação de Mudança e Ciclo de Vida de Melhoria Contínua.
+
+
+
+
+Já que é pra decorar..
+
+Viu a expressão "prestação de serviços"... podem associar à dimensão Cliente. (dimensão BSC do cobit 5)
+
+Bons estudos
+
+
+
+Só lembrar que os H abilitadores ficam dentro da Abordagem H olística. 
+
+
+
+Processos:
+
+-Domínio EDM(GOVERNANÇA) começam com GARANTIR ou ASSEGURAR;
+
+-Domínio MEA(GeSTÃO) começam com MONITORAR; 
+
+-Demais domínios APO,BAI,DSS(Gestão) começam com GERENCIAR
+
+**Pode parecer besta, mas na questão acima reduz a alternativa para duas.
+
+
+
+Dimensões:
+A dica é... decorar no minimo as dimensões 
+
+
+Uso o lembrete: "Corpo Bombeiros + Policia Militar"
+
+ 
+Ciclo de vida
+
+Boas praticas
+
+partes interessadas
+
+metas
+
+
+
+Modelo de Capacidade:
+
+Nível 0 –Incompleto ‘o processo não atinge seu propósito’
+
+Nível 1 – Executado ‘o processo atinge seu propósito’
+
+Nível 2 – Gerenciado ‘o processo é implementado de forma gerenciada’
+
+Nível 3 – Estabelecido ‘ processo definido capaz de atingir resultados esperados’
+
+Nível 4 – Previsível ‘o proc oper dentro dos limit estab p/ ating result esperados’
+
+Nível 5 – Otimizado ‘o proc é continuamente melhorado p/ atender objetivos de negócios atuais’
+
+
+
+
+
+
+iso 27002
+A ISO 27002 contém 14 sessões de controles.
+
+1 - Políticas de Segurança da Informação
+
+2 - Orientação da Direção para Segurança da Informação
+
+3 - Segurança em Recursos Humanos
+
+4 - Gestão de ativos
+
+5 - Controle de acesso
+
+6 - Criptografia
+
+7 - Segurança Física e do Ambiente
+
+8 - Segurança nas Operações
+
+9 - Segurança nas Comunicações
+
+10 - Aquisição, Desenvolvimento e Manutenção de Sistemas
+
+11 - Relacionamento na Cadeia de Suprimento
+
+12 - Gestão de Incidentes
+
+13 - Gestão da continuidade do negócio
+
+14 - Conformidade
+
+Mneumônico que inventei pra ajudar a lembrar:  PORHA SUPerINtendente FOCCA na ADMinistração COCÔ
+
+Politicas, Orientação da Direção, RH, Ativos, SUPrimentos, INcidentes, Física, Operações, Criptografia, Controle de Acesso, Aquisição Desenvolvimento Manutenção, COntinuidade, COnformidade.
+
+
+
+
+
+
+
+120 de cobit 5
+105 de criptografia
