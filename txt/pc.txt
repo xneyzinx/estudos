@@ -1,3 +1,8 @@
+git pull
+git add -A
+git commit -m "lol"
+git push origin master
+
 fat12 - disquetes. Partição de 16mb, cluster de 512bytes, 1k, 2k e 4k. Não diferencia maiuscula de minuscula
 fat16 - SO de 16 bits ou de 32 bits. Usa clusters, o que aumenta o desperdício de espaço. Disco de até 2GB (cluster de 32kb)
 fat32 - apenas 32 bits, arquivos de até 4gb, 
@@ -224,7 +229,68 @@ O serviço SAMBA implementa o protocolo SMB/CIFS no GNU LINUX.
 
 O programa Samba é um programa que permite o compartilhamento de arquivos e impressoras entre computadores que executam o Microsoft Windows e computadores que executam o Unix
 
+smbd -> impressao e arquivos (Serviços)
+nmbd -> nomes e navegação
+smb.conf na pasta /etc/samba
 
+
+NFS(do linux)
+SAMBA usa SMB/CIFS pra se conectar à redes microsoft
+
+LDAP = 389
+
+
+Já numa rede comutada a circuitos virtuais, os pacotes seguem rotas de acordo com a numeração dos circuitos, ou seja, depois de estabelecido a rota de uma conexão, todos os pacotes seguirão por aquele circuito de maneira ordenada até que haja a desconexão. Temos como exemplos de redes comutadas a circuitos virtuais o Frame Relay e o ATM.
+
+ipv6 só fragmenta o pacote na origem (?)
+
+
+
+HTTP:
+1XXX - Informativa
+
+2XXX - Sucesso
+
+3XXX - Redirecionamento
+
+4XXX - Erro do Cliente
+
+5XXX - Erro do servidor
+
+
+HTTP persistente foi implementada na v1.1
+
+
+FTP:
+1xx boa, inicial
+2xx boa, completado
+3xx boa, intermediário
+4xx deu bosta
+5xx deu bosta TOTAL
+6xx ?
+
+331 nome de usuário OK, senha requisitada
+
+FTP MENSAGENS:
+Respostas do tipo 2xx querem dizer que a última ação foi aceita e executada.
+
+Respostas do tipo 3xx querem dizer que a última ação foi aceita mas depende de dados intermediários (à serem enviados).
+
+Respostas do tipo x3x dizem respeito à login e autenticação.
+
+x2x diz respeito a conexões 125 tudo beleza 425 deu bosta
+
+Respostas do tipo x5x são relacionadas ao sistema de arquivos( transferencias em geral).
+
+
+TFTP - ftp com UDP, porta 69. FTP normal usa TCP, é "trivial" nao tem muitas funções
+
+FTPS - SSL/TLS, assim como o https, smtps, imaps e etc.
+
+SFTP: Utiliza o SSH.
+
+
+BOOTP = serviu de base pro DHCP 
 
 
 Handshake TLS:
