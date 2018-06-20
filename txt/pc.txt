@@ -4,6 +4,17 @@ git commit -m "lol"
 git push origin master
 
 
+
+
+TCP Reno - retransmissão rápida (cai só a metade)
+TCP Tahoe - cai tudo
+
+
+sniffer modo promíscuo - captura TUDO
+
+
+
+
 SAN depende de SO, se comporta como um grande HD
 NAS não depende de SO
 
@@ -188,6 +199,13 @@ transferir e instalar em um outro host desde que tenha um Docker previamente ins
 
 
 
+
+
+/24 = clace C   rede.rede.rede.HOSTS = 255 endereços
+
+
+
+
 ECB: nao esconde os padrões
 CBC: faz o XOR do bloco com o bloco cifrado anterior, e entao cifra (no primeiro tem um vetor de inicialização). É de bloco
 CFB: o bloco cifrado anterior é codificado e aí faz o XOR com o próximo. É de fluxo
@@ -302,6 +320,11 @@ LDAP = 389
 Já numa rede comutada a circuitos virtuais, os pacotes seguem rotas de acordo com a numeração dos circuitos, ou seja, depois de estabelecido a rota de uma conexão, todos os pacotes seguirão por aquele circuito de maneira ordenada até que haja a desconexão. Temos como exemplos de redes comutadas a circuitos virtuais o Frame Relay e o ATM.
 
 ipv6 só fragmenta o pacote na origem (?)
+
+
+
+No POST o comando back resubmete, eh mais seguro pq vai no corpo
+no GET nao
 
 
 
