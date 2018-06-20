@@ -3,6 +3,65 @@ git add -A
 git commit -m "lol"
 git push origin master
 
+
+SAN depende de SO, se comporta como um grande HD
+NAS não depende de SO
+
+
+DAS- Transferência  por Bloco de dados; Diretamente conectado, Utiliza SATA, e-SATA,USB;
+
+NAS - transferência por arquivos; possui SO; utiliza protocolos: CIFS/SMB (porta 445) , NFS (porta 2049)
+
+SAN: Transferência  por Bloco de dados; rede dedicada de armazenamento; pode utilizar diversos tipos de armazenamento, inclusive DAS e NAS; Tecnologias mais comuns nas redes SAN são: Fiber Channel, SAS e iSCSI
+
+vantagens do SAN: Permitir o boot do servidor usando o sistema de armazenamento: Pois isto permite a rápida e fácil reposição de servidores defeituosos.
+
+Outras vantagens:  Mais eficaz em recuperação de dados;
+
+                            Replica dados de vários servidores para uma área de armazenamento secundário.
+
+
+NAS usa scale-up ou scale-out
+- scale-up: aumenta o desempenho de cada computador para acomodar a demanda (mais memória, CPU mais rápida, mais disco...);
+
+- scale-out: aumenta a quantidade de computadores para acomodar a demanda (aumenta de 15 máquinas para 25 máquinas, mas não mexe nelas individualmente). 
+
+
+
+
+SCSI ou FC :
+
+SCSI - Small Computer System Interface, é uma tecnologia que permite ao usuário conectar uma larga gama de periféricos, tais como discos rígidos, unidades CD-ROM, impressoras e scanners. Características físicas e elétricas de uma interface de entrada e/ou saída (E/S) projetadas para se conectarem e se comunicarem com dispositivos periféricos são definidas pelo SCSI.
+
+Fibre Channel: Tecnologia que melhora o desempenho da transferência de dados para níveis que são incompatíveis por outras tecnologias.
+é otimizado por larga transferência de dados enquanto uma rede ip é otimizada para Fibre Channel Storage Area Networks
+
+
+CAMADAS DO SAN
+  FC-4 mapeia nas camadas de aplicação e apresentação do modelo OSI.
+   FC-3 e FC-2 mapeiam nas camadas de sessão, transporte, e enlace do modelo OSI.
+   FC-1 e FC-0 mapeiam na camada física do modelo OSI.
+ 
+
+
+
+
+O RADIUS é um sistema utilizado para prover autenticação centralizada em redes dial-up, VPN's e redes sem fio e tem um modelo cliente-servidor, no qual o cliente é o Network Access Server (NAS)
+
+
+
+
+RAID 0 - STRIPPING
+RAID 1 - MIRRORING
+RAID 2 - HAMMING
+RAID 3 - PARIDADE DE BIT
+RAID 4 - PARIDADE DE BLOCO EM UM ÚNICO DISCO (LEITURA RAPIDA,  ESCRITA LENTA)
+RAID 5 - PARIDADE DE BLOCO DISTRIBUÍDA (OVERHEAD NA REMONTAGEM) (ESCRITA RÁPIDA POIS A PARIDADE FOI DISTRIBUIDA)
+RAID 6 - PARIDADE DE BLOCO DUAL DISTRIBUIDA
+
+
+
+
 fat12 - disquetes. Partição de 16mb, cluster de 512bytes, 1k, 2k e 4k. Não diferencia maiuscula de minuscula
 fat16 - SO de 16 bits ou de 32 bits. Usa clusters, o que aumenta o desperdício de espaço. Disco de até 2GB (cluster de 32kb)
 fat32 - apenas 32 bits, arquivos de até 4gb, 
