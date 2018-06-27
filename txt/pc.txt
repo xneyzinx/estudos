@@ -3,6 +3,56 @@ git add -A
 git commit -m "lol"
 git push origin master
 
+
+PRA AJUDAR-> Art. 6º Quem pode ter porte de arma:
+
+ 
+
+a. Fora de serviço e em território nacional:
+
+- Integrantes das Forças Armadas;
+
+- Integrante da: PF + PRF + PFF + PC + PM + CBM
+
+- Integrantes da ABIN e Seguranças do Gabinete da Presidência
+
+- Policiais Legislativos.
+
+ 
+
+b. Fora de serviço mas não tem território nacional:
+
+- Guardas municipais (Municípios com mais de 500.000 habitantes);
+
+- Guardas Prisionais (se regime de dedicação exclusiva);
+
+ 
+
+c. Somente em serviço:
+
+- Guardas municipais (Municípios com 50.000 a 500.000 habitantes);
+
+- Guardas prisionais (não estando em regime de dedicação exclusiva);
+
+- Servidores da segurança do Poder Judiciário (no máximo 50% dos servidores da segurança terão porte de arma);
+
+- Empresas de segurança privada.
+
+- Auditores (Fiscais e da Receita) e Analistas Tributários;
+
+
+
+Em 2014, foi publicada a Lei n.? 12.993/2014 que alterou o Estatuto do Desarmamento para 
+permitir que agentes e guardas prisionais tenham porte de arma de fogo, desde que atendam 
+aos seguintes requisitos: QUADRO DE CURSOS de FISCALIZAÇÃO(Grifo meu, Mnemônica criada por mim)
+ 
+1º) Deverão integrar o QUADRO efetivo do Estado (DF) ou União.  
+2º) Deverão estar submetidos a regime de DEdicação exclusiva. 
+3º) Deverão estar sujeitos a CURSOS de formação funcional. 
+4º) Deverão estar subordinados a mecanismos de FISCALIZAÇÃO e de controle interno. 
+
+
+
 acesso dos entrangeiros a cargo público - eficácia limitada
 direito de greve do servidor público - eficácia limitada
 
@@ -58,7 +108,7 @@ Para que haja furto, tipo penal do art. 155, é necessário que haja o animus "rem
 
 
 
-comutação de células - ATM, ordem dos pacotes é garantida
+comutação de células - ATM, ordem dos pacotes é garantida, circuito virtual
 
 
 RIP usa vetor distancia - dentro da rede, 15 saltos no máximo
@@ -82,7 +132,7 @@ TCP Tahoe - cai tudo
 sniffer modo promíscuo - captura TUDO
 
 
-DSN com udp - até 512 bytes, acima disso usa-se tcp
+DNS com udp - até 512 bytes, acima disso usa-se tcp
 Consultas de clientes => UDP
 Transferência de zonas entre servidores DNS => TCP
 
@@ -288,7 +338,7 @@ transferir e instalar em um outro host desde que tenha um Docker previamente ins
 
 
 
-/24 = clace C   rede.rede.rede.HOSTS = 255 endereços
+/24 = classe C   rede.rede.rede.HOSTS = 255 endereços
 
 
 
@@ -365,7 +415,8 @@ El Gamal --> O El Gamal possui como segurança de seu sistema a dificuldade do cá
 Diffie-Hellman --> Na sua versão mais atual, o DH pode ser utilizado conjuntamente com algoritmos de curva elíptica criando um processo chamado Perfect Forward Secrecy (PFS), A sua estrutura e robustez e segurança reside na complexidade e problema do logaritmo discreto.
 
 
-EAP evita ataques man-in-the-middle
+EAP evita ataques man-in-the-middle 
+EAP não é um protocolo de redes cabeadas, em vez disso ele só define os formatos de mensagens. 
 
 
 Criptoanálise linear observa a evolução de um único bloco de texto.
