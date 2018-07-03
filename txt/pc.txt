@@ -342,6 +342,10 @@ transferir e instalar em um outro host desde que tenha um Docker previamente ins
 
 
 
+Como já foi visto em MAC em Redes sem Fio, o MAC de uma Rede sem Fio é diferente do MAC de uma rede cabeada. A sub-camada LLC (Logical Link Control) serve para acobertar essas diferenças. Em muitas redes atuais, nenhuma camada explícita LLC é visível. 
+
+
+
 
 ECB: nao esconde os padrões
 CBC: faz o XOR do bloco com o bloco cifrado anterior, e entao cifra (no primeiro tem um vetor de inicialização). É de bloco
@@ -384,11 +388,40 @@ pode ser computada com antecedência
 As Cifras de fluxo são um tipo de Algoritmos de chave simétrica. Neste tipo de cifras, os bits originais são combinados com bits de cifragem vindos de um gerador de dígitos pseudo-aleatório. Normalmente esta combinação é feita através de uma operação de disjunção exclusiva ou XOR.
 
 
+RC4: a chave do RC4 NÃO é FIXA e pode variar desde 8 à 2048 bits (1 à 256 bytes), tipicamente usa 5 ou 16 bytes
 
 
-
-AES: blocos de 128 bits, chaves de 128/192/256 (16/24/32 bytes)      [10/12/14 ciclos]
+AES: blocos de 128 bits, chaves de 128/192/256 (16/24/32 bytes)      [10/12/14 ciclos ou rodadas, faz XOR e S-Boxes fixas]
 É UMA cifra cíclica
+
+    Round(State,RoundKey)
+
+        {
+
+        ByteSub(State);
+
+        ShiftRow(State);
+
+        MixColumns(State);
+
+        AddRoundKey(State,RoundKey);
+
+        }
+
+A rodada final é diferente e definida por
+
+    FinalRound(State,RoundKey)
+
+        {
+
+        ByteSub(State) ;
+
+        ShiftRow(State) ;
+
+        AddRoundKey(State,RoundKey);
+
+        }
+
 
 
 RC4: cifra de fluxo, é de rápida encriptação, usado no SSL e WEP
@@ -399,7 +432,7 @@ DES                64bits                        56bits (8 paridade + 48 chave)
 
 3DES               64bits                       (112bits ? 3DES duplo;168bits ? 3DES triplo)
 
-AES                 128bits                     128bits,192bits,256bits
+AES                 128bits                     128bits,192bits,256bits  
 
 IDEA                 64bits                       128bits
 
@@ -435,6 +468,22 @@ Método de Operação
 
 Modo de Processamento
 - Cifra de Bloco e Cifras de Fluxo.
+
+a tecnologia wimax é utilizada para transmissão a longas distâncias (6 a 9km), normalmente utilizando as antenas de telefonia
+
+
+/var/log/maillog
+windows/system32/logfiles/smtpsvc1
+
+/var/log/httpd logs do apache
+/var/log/squid/
+
+/var/log/squid/access.log : Most log file analysis program are based on the entries in access.log. You can use this file to find out who is using squid server and what they are doing etc
+/var/log/squid/cache.log : The cache.log file contains the debug and error messages that Squid generates.
+/var/log/squid/store.log : The store.log file covers the objects currently kept on disk or removed ones. As a kind of transaction log it is ususally used for debugging purposes. A definitive statement, whether an object resides on your disks is only possible after analysing the complete log file. The release (deletion) of an object may be logged at a later time than the swap out (save to disk).
+
+MD5 - 128 bits (16 bytes, 32 hex)
+sha 1 - 160 bits (20 bytes, 40 hex)
 
 
 
